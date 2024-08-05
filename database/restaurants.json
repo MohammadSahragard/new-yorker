@@ -1,0 +1,1417 @@
+[
+    {
+        "id": "001",
+        "name": "The Spicy Spoon",
+        "rating": 4.5,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "Foodie123",
+                "rating": 5,
+                "text": "Amazing spices and flavors!"
+            },
+            {
+                "id": "r002",
+                "username": "CurryLover",
+                "rating": 4,
+                "text": "The curry was a bit too spicy for my taste."
+            },
+            {
+                "id": "r003",
+                "username": "YummyBites",
+                "rating": 5,
+                "text": "Great atmosphere and delicious food."
+            },
+            {
+                "id": "r004",
+                "username": "SpiceFan",
+                "rating": 5,
+                "text": "Best spicy dishes in town."
+            },
+            {
+                "id": "r005",
+                "username": "TastyTraveler",
+                "rating": 4,
+                "text": "Good experience but service was slow."
+            },
+            {
+                "id": "r006",
+                "username": "FlavorSeeker",
+                "rating": 5,
+                "text": "Loved the blend of spices!"
+            },
+            {
+                "id": "r007",
+                "username": "FamilyDiner",
+                "rating": 4,
+                "text": "Family-friendly and tasty."
+            },
+            {
+                "id": "r008",
+                "username": "HappyEater",
+                "rating": 5,
+                "text": "Excellent food and service."
+            },
+            {
+                "id": "r009",
+                "username": "ChiliFanatic",
+                "rating": 5,
+                "text": "Chili dishes are a must-try."
+            },
+            {
+                "id": "r010",
+                "username": "SpiceAdventurer",
+                "rating": 4,
+                "text": "Unique and spicy flavors."
+            },
+            {
+                "id": "r011",
+                "username": "QuickLuncher",
+                "rating": 4,
+                "text": "Great spot for a quick lunch."
+            },
+            {
+                "id": "r012",
+                "username": "SauceExpert",
+                "rating": 5,
+                "text": "The sauces are out of this world."
+            },
+            {
+                "id": "r013",
+                "username": "SpiceKing",
+                "rating": 5,
+                "text": "My go-to place for spicy food."
+            },
+            {
+                "id": "r014",
+                "username": "TasteTester",
+                "rating": 4,
+                "text": "Good taste but a bit pricey."
+            },
+            {
+                "id": "r015",
+                "username": "Epicurean",
+                "rating": 5,
+                "text": "A delightful culinary experience."
+            }
+        ],
+        "description": "The Spicy Spoon offers a variety of dishes with rich and aromatic spices, providing an authentic taste of global cuisines.",
+        "opening_hours": {
+            "Monday": "11:00 AM - 10:00 PM",
+            "Tuesday": "11:00 AM - 10:00 PM",
+            "Wednesday": "11:00 AM - 10:00 PM",
+            "Thursday": "11:00 AM - 11:00 PM",
+            "Friday": "11:00 AM - 11:00 PM",
+            "Saturday": "12:00 PM - 11:00 PM",
+            "Sunday": "12:00 PM - 9:00 PM"
+        },
+        "address": "123 Spice St, New York, NY 10001",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.776375551251!2d-74.00594128459372!3d40.71278397932956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a316731ff8f%3A0xc80b8f06e177fe62!2s123%20Spice%20St%2C%20New%20York%2C%20NY%2010001%2C%20USA!5e0!3m2!1sen!2s!4v1618505557631!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 212-555-0101",
+        "website": "https://thespicyspoon.com",
+        "price_range": "$20 - $50",
+        "meals": [
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "Spicy Dishes",
+            "Vegan Options",
+            "Family Friendly"
+        ],
+        "photos": [
+            "https://example.com/spicyspoon1.jpg",
+            "https://example.com/spicyspoon2.jpg",
+            "https://example.com/spicyspoon3.jpg",
+            "https://example.com/spicyspoon4.jpg",
+            "https://example.com/spicyspoon5.jpg"
+        ]
+    },
+    {
+        "id": "002",
+        "name": "Brooklyn Diner",
+        "rating": 4.2,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "BreakfastLover",
+                "rating": 5,
+                "text": "Best pancakes in Brooklyn!"
+            },
+            {
+                "id": "r002",
+                "username": "CoffeeAddict",
+                "rating": 4,
+                "text": "Great coffee and ambiance."
+            },
+            {
+                "id": "r003",
+                "username": "FamilyMan",
+                "rating": 4,
+                "text": "A nice place for family brunch."
+            },
+            {
+                "id": "r004",
+                "username": "BusyBee",
+                "rating": 5,
+                "text": "Quick service and friendly staff."
+            },
+            {
+                "id": "r005",
+                "username": "EggBenedictFan",
+                "rating": 5,
+                "text": "Egg Benedict is a must-try."
+            },
+            {
+                "id": "r006",
+                "username": "SweetTooth",
+                "rating": 4,
+                "text": "The desserts are delightful."
+            },
+            {
+                "id": "r007",
+                "username": "DinerFan",
+                "rating": 5,
+                "text": "Classic diner experience with a modern twist."
+            },
+            {
+                "id": "r008",
+                "username": "LunchBuddy",
+                "rating": 4,
+                "text": "Good lunch specials."
+            },
+            {
+                "id": "r009",
+                "username": "AllDayBreakfast",
+                "rating": 5,
+                "text": "Love that they serve breakfast all day."
+            },
+            {
+                "id": "r010",
+                "username": "LateNightBite",
+                "rating": 4,
+                "text": "Great spot for late-night snacks."
+            },
+            {
+                "id": "r011",
+                "username": "BaconLover",
+                "rating": 5,
+                "text": "The bacon is perfectly crispy."
+            },
+            {
+                "id": "r012",
+                "username": "WeekendBrunch",
+                "rating": 4,
+                "text": "Weekend brunch is very popular."
+            },
+            {
+                "id": "r013",
+                "username": "ComfortFoodie",
+                "rating": 5,
+                "text": "Comfort food at its best."
+            },
+            {
+                "id": "r014",
+                "username": "RegularDiner",
+                "rating": 4,
+                "text": "A regular spot for our family outings."
+            },
+            {
+                "id": "r015",
+                "username": "HappyCustomer",
+                "rating": 5,
+                "text": "Always leave with a smile."
+            }
+        ],
+        "description": "Brooklyn Diner serves classic American dishes with a modern flair. Enjoy all-day breakfast and a range of hearty meals in a cozy setting.",
+        "opening_hours": {
+            "Monday": "7:00 AM - 10:00 PM",
+            "Tuesday": "7:00 AM - 10:00 PM",
+            "Wednesday": "7:00 AM - 10:00 PM",
+            "Thursday": "7:00 AM - 11:00 PM",
+            "Friday": "7:00 AM - 11:00 PM",
+            "Saturday": "8:00 AM - 11:00 PM",
+            "Sunday": "8:00 AM - 9:00 PM"
+        },
+        "address": "456 Brooklyn Ave, Brooklyn, NY 11201",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.033604617115!2d-73.94415718459259!3d40.71277597932956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a204cd0b77f%3A0x6a0b8f06e177fe62!2s456%20Brooklyn%20Ave%2C%20Brooklyn%2C%20NY%2011201%2C%20USA!5e0!3m2!1sen!2s!4v1618505557631!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 718-555-0102",
+        "website": "https://brooklyndiner.com",
+        "price_range": "$15 - $35",
+        "meals": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "All-day Breakfast",
+            "Family Friendly",
+            "Desserts"
+        ],
+        "photos": [
+            "https://example.com/brooklyndiner1.jpg",
+            "https://example.com/brooklyndiner2.jpg",
+            "https://example.com/brooklyndiner3.jpg",
+            "https://example.com/brooklyndiner4.jpg",
+            "https://example.com/brooklyndiner5.jpg"
+        ]
+    },
+    {
+        "id": "003",
+        "name": "Central Park Bistro",
+        "rating": 4.8,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "ParkLover",
+                "rating": 5,
+                "text": "Beautiful view and fantastic food!"
+            },
+            {
+                "id": "r002",
+                "username": "FoodieTraveler",
+                "rating": 5,
+                "text": "A hidden gem near Central Park."
+            },
+            {
+                "id": "r003",
+                "username": "BistroFan",
+                "rating": 4,
+                "text": "Great ambiance but a bit pricey."
+            },
+            {
+                "id": "r004",
+                "username": "NatureLover",
+                "rating": 5,
+                "text": "Perfect spot for a meal after a park walk."
+            },
+            {
+                "id": "r005",
+                "username": "LunchBreak",
+                "rating": 5,
+                "text": "Excellent lunch options."
+            },
+            {
+                "id": "r006",
+                "username": "DinnerDelight",
+                "rating": 5,
+                "text": "Dinner here was delightful."
+            },
+            {
+                "id": "r007",
+                "username": "ViewSeeker",
+                "rating": 5,
+                "text": "Incredible view of the park."
+            },
+            {
+                "id": "r008",
+                "username": "AfternoonTea",
+                "rating": 4,
+                "text": "Lovely afternoon tea service."
+            },
+            {
+                "id": "r009",
+                "username": "GourmetFan",
+                "rating": 5,
+                "text": "Gourmet meals at its best."
+            },
+            {
+                "id": "r010",
+                "username": "WeekendBruncher",
+                "rating": 5,
+                "text": "Weekend brunch is a treat."
+            },
+            {
+                "id": "r011",
+                "username": "RomanticDinner",
+                "rating": 4,
+                "text": "Perfect for a romantic dinner."
+            },
+            {
+                "id": "r012",
+                "username": "WineLover",
+                "rating": 5,
+                "text": "Great wine selection."
+            },
+            {
+                "id": "r013",
+                "username": "ParkVisitor",
+                "rating": 5,
+                "text": "A must-visit when at Central Park."
+            },
+            {
+                "id": "r014",
+                "username": "FamilyFeast",
+                "rating": 4,
+                "text": "Family-friendly dining experience."
+            },
+            {
+                "id": "r015",
+                "username": "HappyPatron",
+                "rating": 5,
+                "text": "Always a pleasant dining experience."
+            }
+        ],
+        "description": "Central Park Bistro offers exquisite meals with a view of Central Park. Enjoy gourmet dishes and a serene atmosphere.",
+        "opening_hours": {
+            "Monday": "10:00 AM - 10:00 PM",
+            "Tuesday": "10:00 AM - 10:00 PM",
+            "Wednesday": "10:00 AM - 10:00 PM",
+            "Thursday": "10:00 AM - 11:00 PM",
+            "Friday": "10:00 AM - 11:00 PM",
+            "Saturday": "9:00 AM - 11:00 PM",
+            "Sunday": "9:00 AM - 10:00 PM"
+        },
+        "address": "789 Park Ave, New York, NY 10021",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.433740618791!2d-73.96535518459167!3d40.78306077932767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258f4e9e1ef71%3A0x8a9b8f06e177fe62!2s789%20Park%20Ave%2C%20New%20York%2C%20NY%2010021%2C%20USA!5e0!3m2!1sen!2s!4v1618506660489!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 212-555-0103",
+        "website": "https://centralparkbistro.com",
+        "price_range": "$30 - $70",
+        "meals": [
+            "Brunch",
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "Scenic View",
+            "Gourmet",
+            "Wine Selection"
+        ],
+        "photos": [
+            "https://example.com/centralparkbistro1.jpg",
+            "https://example.com/centralparkbistro2.jpg",
+            "https://example.com/centralparkbistro3.jpg",
+            "https://example.com/centralparkbistro4.jpg",
+            "https://example.com/centralparkbistro5.jpg"
+        ]
+    },
+    {
+        "id": "004",
+        "name": "Little Italy Pizzeria",
+        "rating": 4.7,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "PizzaFanatic",
+                "rating": 5,
+                "text": "Best pizza I've ever had!"
+            },
+            {
+                "id": "r002",
+                "username": "CheeseLover",
+                "rating": 5,
+                "text": "The cheese is perfectly melted."
+            },
+            {
+                "id": "r003",
+                "username": "CrustConnoisseur",
+                "rating": 5,
+                "text": "Loved the crispy crust."
+            },
+            {
+                "id": "r004",
+                "username": "PepperoniPal",
+                "rating": 5,
+                "text": "Pepperoni pizza is to die for."
+            },
+            {
+                "id": "r005",
+                "username": "ItalianFoodie",
+                "rating": 4,
+                "text": "Great atmosphere and food."
+            },
+            {
+                "id": "r006",
+                "username": "SauceSavant",
+                "rating": 5,
+                "text": "The sauce is a perfect blend of spices."
+            },
+            {
+                "id": "r007",
+                "username": "QuickLunch",
+                "rating": 4,
+                "text": "Perfect for a quick lunch."
+            },
+            {
+                "id": "r008",
+                "username": "FamilyDinner",
+                "rating": 5,
+                "text": "Great place for a family dinner."
+            },
+            {
+                "id": "r009",
+                "username": "CheesyBites",
+                "rating": 5,
+                "text": "Cheesy goodness in every bite."
+            },
+            {
+                "id": "r010",
+                "username": "FriendlyService",
+                "rating": 4,
+                "text": "Friendly staff and great service."
+            },
+            {
+                "id": "r011",
+                "username": "ThinCrustFan",
+                "rating": 5,
+                "text": "Thin crust is amazing."
+            },
+            {
+                "id": "r012",
+                "username": "FlavorfulSlice",
+                "rating": 5,
+                "text": "Every slice is full of flavor."
+            },
+            {
+                "id": "r013",
+                "username": "TouristStop",
+                "rating": 5,
+                "text": "A must-stop for tourists."
+            },
+            {
+                "id": "r014",
+                "username": "CasualDiner",
+                "rating": 4,
+                "text": "Casual dining at its best."
+            },
+            {
+                "id": "r015",
+                "username": "SatisfiedCustomer",
+                "rating": 5,
+                "text": "Always satisfied with my meals."
+            }
+        ],
+        "description": "Little Italy Pizzeria serves authentic Italian pizzas with fresh ingredients and traditional recipes. Enjoy a taste of Italy in the heart of New York.",
+        "opening_hours": {
+            "Monday": "11:00 AM - 11:00 PM",
+            "Tuesday": "11:00 AM - 11:00 PM",
+            "Wednesday": "11:00 AM - 11:00 PM",
+            "Thursday": "11:00 AM - 12:00 AM",
+            "Friday": "11:00 AM - 12:00 AM",
+            "Saturday": "12:00 PM - 12:00 AM",
+            "Sunday": "12:00 PM - 10:00 PM"
+        },
+        "address": "321 Pizza Rd, New York, NY 10013",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.4312558565475!2d-74.0012101845905!3d40.72454507932717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af12345678%3A0xc80b8f06e177fe62!2s321%20Pizza%20Rd%2C%20New%20York%2C%20NY%2010013%2C%20USA!5e0!3m2!1sen!2s!4v1618507861034!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 212-555-0104",
+        "website": "https://littleitalypizzeria.com",
+        "price_range": "$10 - $30",
+        "meals": [
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "Authentic Pizza",
+            "Family Friendly",
+            "Takeout"
+        ],
+        "photos": [
+            "https://example.com/littleitalypizzeria1.jpg",
+            "https://example.com/littleitalypizzeria2.jpg",
+            "https://example.com/littleitalypizzeria3.jpg",
+            "https://example.com/littleitalypizzeria4.jpg",
+            "https://example.com/littleitalypizzeria5.jpg"
+        ]
+    },
+    {
+        "id": "005",
+        "name": "Vegan Delights",
+        "rating": 4.6,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "VeganFan",
+                "rating": 5,
+                "text": "Best vegan food in the city!"
+            },
+            {
+                "id": "r002",
+                "username": "HealthyEater",
+                "rating": 4,
+                "text": "Delicious and healthy meals."
+            },
+            {
+                "id": "r003",
+                "username": "PlantBasedDiner",
+                "rating": 5,
+                "text": "Loved the variety of vegan dishes."
+            },
+            {
+                "id": "r004",
+                "username": "EcoFriendly",
+                "rating": 5,
+                "text": "Sustainable and tasty."
+            },
+            {
+                "id": "r005",
+                "username": "VeganTraveler",
+                "rating": 4,
+                "text": "Great spot for vegan travelers."
+            },
+            {
+                "id": "r006",
+                "username": "GreenEater",
+                "rating": 5,
+                "text": "Everything is fresh and flavorful."
+            },
+            {
+                "id": "r007",
+                "username": "VeggieLover",
+                "rating": 5,
+                "text": "A paradise for veggie lovers."
+            },
+            {
+                "id": "r008",
+                "username": "PlantPower",
+                "rating": 4,
+                "text": "Good food, but portions are small."
+            },
+            {
+                "id": "r009",
+                "username": "HealthyBites",
+                "rating": 5,
+                "text": "Healthy bites that are super tasty."
+            },
+            {
+                "id": "r010",
+                "username": "NutritiousMeals",
+                "rating": 5,
+                "text": "Nutritious and satisfying meals."
+            },
+            {
+                "id": "r011",
+                "username": "VeganFoodie",
+                "rating": 4,
+                "text": "A bit expensive, but worth it."
+            },
+            {
+                "id": "r012",
+                "username": "FlavorfulDishes",
+                "rating": 5,
+                "text": "Flavorful dishes without compromise."
+            },
+            {
+                "id": "r013",
+                "username": "EcoDiner",
+                "rating": 5,
+                "text": "Eco-friendly and delicious."
+            },
+            {
+                "id": "r014",
+                "username": "SatisfiedVegan",
+                "rating": 4,
+                "text": "Satisfying vegan meals."
+            },
+            {
+                "id": "r015",
+                "username": "PlantBasedEater",
+                "rating": 5,
+                "text": "The best plant-based restaurant around."
+            }
+        ],
+        "description": "Vegan Delights offers a wide array of plant-based dishes that are both delicious and environmentally friendly. Enjoy guilt-free dining with every bite.",
+        "opening_hours": {
+            "Monday": "11:00 AM - 9:00 PM",
+            "Tuesday": "11:00 AM - 9:00 PM",
+            "Wednesday": "11:00 AM - 9:00 PM",
+            "Thursday": "11:00 AM - 10:00 PM",
+            "Friday": "11:00 AM - 10:00 PM",
+            "Saturday": "12:00 PM - 10:00 PM",
+            "Sunday": "12:00 PM - 8:00 PM"
+        },
+        "address": "987 Green St, New York, NY 10012",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.0136058565475!2d-73.9952101845905!3d40.72954507932717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af87654321%3A0xc80b8f06e177fe62!2s987%20Green%20St%2C%20New%20York%2C%20NY%2010012%2C%20USA!5e0!3m2!1sen!2s!4v1618508861100!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 212-555-0105",
+        "website": "https://vegandelights.com",
+        "price_range": "$15 - $40",
+        "meals": [
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "Vegan",
+            "Eco-friendly",
+            "Healthy Options"
+        ],
+        "photos": [
+            "https://example.com/vegandelights1.jpg",
+            "https://example.com/vegandelights2.jpg",
+            "https://example.com/vegandelights3.jpg",
+            "https://example.com/vegandelights4.jpg",
+            "https://example.com/vegandelights5.jpg"
+        ]
+    },
+    {
+        "id": "006",
+        "name": "The Seafood Shack",
+        "rating": 4.4,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "SeafoodLover",
+                "rating": 5,
+                "text": "Best seafood in town!"
+            },
+            {
+                "id": "r002",
+                "username": "CrabFanatic",
+                "rating": 4,
+                "text": "The crab was delicious but pricey."
+            },
+            {
+                "id": "r003",
+                "username": "OysterLover",
+                "rating": 5,
+                "text": "Fresh and tasty oysters."
+            },
+            {
+                "id": "r004",
+                "username": "ShrimpAddict",
+                "rating": 5,
+                "text": "Shrimp dishes are a must-try."
+            },
+            {
+                "id": "r005",
+                "username": "FishFan",
+                "rating": 4,
+                "text": "Loved the fish tacos."
+            },
+            {
+                "id": "r006",
+                "username": "ClamChowderFan",
+                "rating": 5,
+                "text": "Clam chowder is the best here."
+            },
+            {
+                "id": "r007",
+                "username": "LobsterLover",
+                "rating": 5,
+                "text": "Lobster rolls are amazing."
+            },
+            {
+                "id": "r008",
+                "username": "ShellfishSavant",
+                "rating": 4,
+                "text": "Great shellfish options."
+            },
+            {
+                "id": "r009",
+                "username": "MaritimeMeal",
+                "rating": 5,
+                "text": "A maritime meal to remember."
+            },
+            {
+                "id": "r010",
+                "username": "Seafoodie",
+                "rating": 5,
+                "text": "Everything is so fresh and flavorful."
+            },
+            {
+                "id": "r011",
+                "username": "OceanBites",
+                "rating": 4,
+                "text": "The taste of the ocean in every bite."
+            },
+            {
+                "id": "r012",
+                "username": "CulinaryCatch",
+                "rating": 5,
+                "text": "A culinary catch of a lifetime."
+            },
+            {
+                "id": "r013",
+                "username": "NetFresh",
+                "rating": 4,
+                "text": "Fresh catches daily."
+            },
+            {
+                "id": "r014",
+                "username": "NauticalNosh",
+                "rating": 5,
+                "text": "Nautical nosh at its best."
+            },
+            {
+                "id": "r015",
+                "username": "CatchOfTheDay",
+                "rating": 5,
+                "text": "Catch of the day is always superb."
+            }
+        ],
+        "description": "The Seafood Shack offers fresh seafood dishes in a cozy and casual setting. Perfect for seafood lovers who crave fresh catches and ocean flavors.",
+        "opening_hours": {
+            "Monday": "11:00 AM - 10:00 PM",
+            "Tuesday": "11:00 AM - 10:00 PM",
+            "Wednesday": "11:00 AM - 10:00 PM",
+            "Thursday": "11:00 AM - 11:00 PM",
+            "Friday": "11:00 AM - 11:00 PM",
+            "Saturday": "12:00 PM - 11:00 PM",
+            "Sunday": "12:00 PM - 9:00 PM"
+        },
+        "address": "654 Ocean Ave, New York, NY 10009",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.2136058565475!2d-73.9892101845905!3d40.72954507932717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af23456789%3A0xc80b8f06e177fe62!2s654%20Ocean%20Ave%2C%20New%20York%2C%20NY%2010009%2C%20USA!5e0!3m2!1sen!2s!4v1618509861100!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 212-555-0106",
+        "website": "https://theseafoodshack.com",
+        "price_range": "$20 - $50",
+        "meals": [
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "Fresh Seafood",
+            "Casual Dining",
+            "Outdoor Seating"
+        ],
+        "photos": [
+            "https://example.com/theseafoodshack1.jpg",
+            "https://example.com/theseafoodshack2.jpg",
+            "https://example.com/theseafoodshack3.jpg",
+            "https://example.com/theseafoodshack4.jpg",
+            "https://example.com/theseafoodshack5.jpg"
+        ]
+    },
+    {
+        "id": "007",
+        "name": "Central Park Bistro",
+        "rating": 4.5,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "JohnDoe123",
+                "rating": 5,
+                "text": "Great atmosphere and friendly staff."
+            },
+            {
+                "id": "r002",
+                "username": "FoodieGal",
+                "rating": 5,
+                "text": "The food was delicious and well-presented."
+            },
+            {
+                "id": "r003",
+                "username": "BudgetEater",
+                "rating": 4,
+                "text": "A bit pricey, but worth the experience."
+            },
+            {
+                "id": "r004",
+                "username": "OutdoorLover",
+                "rating": 5,
+                "text": "Loved the outdoor seating area."
+            },
+            {
+                "id": "r005",
+                "username": "SlowPoke",
+                "rating": 3,
+                "text": "Service was a bit slow during peak hours."
+            },
+            {
+                "id": "r006",
+                "username": "WineEnthusiast",
+                "rating": 5,
+                "text": "Fantastic selection of wines."
+            },
+            {
+                "id": "r007",
+                "username": "SteakFanatic",
+                "rating": 5,
+                "text": "Highly recommend the steak."
+            },
+            {
+                "id": "r008",
+                "username": "DessertLover",
+                "rating": 5,
+                "text": "Desserts were out of this world!"
+            },
+            {
+                "id": "r009",
+                "username": "RomanticNight",
+                "rating": 5,
+                "text": "Perfect spot for a romantic dinner."
+            },
+            {
+                "id": "r010",
+                "username": "WeekendWarrior",
+                "rating": 4,
+                "text": "Crowded on weekends, make a reservation."
+            },
+            {
+                "id": "r011",
+                "username": "SeafoodSavant",
+                "rating": 5,
+                "text": "The seafood platter was amazing."
+            },
+            {
+                "id": "r012",
+                "username": "ParkingTrouble",
+                "rating": 4,
+                "text": "Nice place, but parking is an issue."
+            },
+            {
+                "id": "r013",
+                "username": "VeganChoice",
+                "rating": 5,
+                "text": "Excellent vegan options."
+            },
+            {
+                "id": "r014",
+                "username": "CoffeeCritic",
+                "rating": 3,
+                "text": "Coffee could be better."
+            },
+            {
+                "id": "r015",
+                "username": "HappyVisitor",
+                "rating": 5,
+                "text": "Will definitely visit again!"
+            }
+        ],
+        "description": "Central Park Bistro offers a diverse menu featuring seasonal and local ingredients. Nestled near Central Park, it's a perfect spot for a delightful meal after a day of exploration.",
+        "opening_hours": {
+            "Monday": "11:00 AM - 10:00 PM",
+            "Tuesday": "11:00 AM - 10:00 PM",
+            "Wednesday": "11:00 AM - 10:00 PM",
+            "Thursday": "11:00 AM - 11:00 PM",
+            "Friday": "11:00 AM - 11:00 PM",
+            "Saturday": "10:00 AM - 11:00 PM",
+            "Sunday": "10:00 AM - 9:00 PM"
+        },
+        "address": "123 Central Park West, New York, NY 10023",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.876037842259!2d-73.97605628459196!3d40.78090757932673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2589b8f0f99d3%3A0xa94f97aa0d6e0b0d!2sCentral%20Park%20West%2C%20New%20York%2C%20NY%2010023%2C%20USA!5e0!3m2!1sen!2s!4v1618505705975!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 212-555-0199",
+        "website": "https://centralparkbistro.com",
+        "price_range": "$30 - $60",
+        "meals": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "Outdoor Seating",
+            "Reservations",
+            "Wheelchair Accessible",
+            "Free Wi-Fi"
+        ],
+        "photos": [
+            "https://example.com/photo1.jpg",
+            "https://example.com/photo2.jpg",
+            "https://example.com/photo3.jpg",
+            "https://example.com/photo4.jpg",
+            "https://example.com/photo5.jpg"
+        ]
+    },
+    {
+        "id": "008",
+        "name": "Brooklyn Diner",
+        "rating": 4.2,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "DinerFan",
+                "rating": 5,
+                "text": "Authentic diner experience with classic dishes."
+            },
+            {
+                "id": "r002",
+                "username": "PancakeLover",
+                "rating": 5,
+                "text": "Loved the pancakes and milkshakes!"
+            },
+            {
+                "id": "r003",
+                "username": "QuickBite",
+                "rating": 4,
+                "text": "A bit crowded, but service was quick."
+            },
+            {
+                "id": "r004",
+                "username": "FamilyBruncher",
+                "rating": 5,
+                "text": "Perfect place for a family brunch."
+            },
+            {
+                "id": "r005",
+                "username": "RetroFan",
+                "rating": 4,
+                "text": "The retro decor is charming."
+            },
+            {
+                "id": "r006",
+                "username": "BurgerBuddie",
+                "rating": 5,
+                "text": "Burgers are a must-try."
+            },
+            {
+                "id": "r007",
+                "username": "GenerousEater",
+                "rating": 5,
+                "text": "Portions are generous and satisfying."
+            },
+            {
+                "id": "r008",
+                "username": "ValueSeeker",
+                "rating": 5,
+                "text": "Great value for the money."
+            },
+            {
+                "id": "r009",
+                "username": "AttentiveStaff",
+                "rating": 5,
+                "text": "Staff was friendly and attentive."
+            },
+            {
+                "id": "r010",
+                "username": "NoisyTimes",
+                "rating": 3,
+                "text": "Can get noisy during peak hours."
+            },
+            {
+                "id": "r011",
+                "username": "CoffeeLover",
+                "rating": 5,
+                "text": "The coffee was excellent."
+            },
+            {
+                "id": "r012",
+                "username": "PublicTransport",
+                "rating": 4,
+                "text": "Parking is tricky, use public transport."
+            },
+            {
+                "id": "r013",
+                "username": "BreakfastBuff",
+                "rating": 5,
+                "text": "Nice selection of breakfast items."
+            },
+            {
+                "id": "r014",
+                "username": "ReturnVisitor",
+                "rating": 5,
+                "text": "Would love to come back!"
+            },
+            {
+                "id": "r015",
+                "username": "EggFanatic",
+                "rating": 4,
+                "text": "The egg sandwiches are a favorite."
+            }
+        ],
+        "description": "Brooklyn Diner captures the essence of the classic American diner with a modern twist. Offering hearty meals and a cozy atmosphere, it's a go-to spot for locals and tourists alike.",
+        "opening_hours": {
+            "Monday": "7:00 AM - 9:00 PM",
+            "Tuesday": "7:00 AM - 9:00 PM",
+            "Wednesday": "7:00 AM - 9:00 PM",
+            "Thursday": "7:00 AM - 10:00 PM",
+            "Friday": "7:00 AM - 10:00 PM",
+            "Saturday": "8:00 AM - 10:00 PM",
+            "Sunday": "8:00 AM - 8:00 PM"
+        },
+        "address": "456 Brooklyn Ave, Brooklyn, NY 11201",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.0336044021274!2d-73.99003628459292!3d40.69308297933353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a2155d5e1d7%3A0xe0d52baf0f194a2a!2s456%20Brooklyn%20Ave%2C%20Brooklyn%2C%20NY%2011201%2C%20USA!5e0!3m2!1sen!2s!4v1618505973325!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 718-555-0144",
+        "website": "https://brooklyndiner.com",
+        "price_range": "$15 - $35",
+        "meals": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "Family Friendly",
+            "Takeout",
+            "Wi-Fi"
+        ],
+        "photos": [
+            "https://example.com/brooklyn1.jpg",
+            "https://example.com/b}rooklyn2.jpg",
+            "https://example.com/brooklyn3.jpg",
+            "https://example.com/brooklyn4.jpg",
+            "https://example.com/brooklyn5.jpg"
+        ]
+    },
+    {
+        "id": "009",
+        "name": "Empire State Grill",
+        "rating": 4.8,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "ViewLover",
+                "rating": 5,
+                "text": "Spectacular views and exquisite food."
+            },
+            {
+                "id": "r002",
+                "username": "SpecialOccasion",
+                "rating": 5,
+                "text": "Perfect for a special occasion."
+            },
+            {
+                "id": "r003",
+                "username": "SteakMaster",
+                "rating": 5,
+                "text": "Steak was cooked to perfection."
+            },
+            {
+                "id": "r004",
+                "username": "ElegantDiner",
+                "rating": 5,
+                "text": "Elegant ambiance and top-notch service."
+            },
+            {
+                "id": "r005",
+                "username": "RooftopFan",
+                "rating": 5,
+                "text": "The rooftop dining experience was unforgettable."
+            },
+            {
+                "id": "r006",
+                "username": "PriceyTaste",
+                "rating": 4,
+                "text": "A bit pricey but worth every penny."
+            },
+            {
+                "id": "r007",
+                "username": "CocktailLover",
+                "rating": 5,
+                "text": "Amazing cocktails with a view."
+            },
+            {
+                "id": "r008",
+                "username": "SeafoodPasta",
+                "rating": 5,
+                "text": "Loved the seafood pasta."
+            },
+            {
+                "id": "r009",
+                "username": "JazzFan",
+                "rating": 5,
+                "text": "The live jazz music was a nice touch."
+            },
+            {
+                "id": "r010",
+                "username": "AdvancePlanner",
+                "rating": 5,
+                "text": "Booking in advance is a must."
+            },
+            {
+                "id": "r011",
+                "username": "DessertDreamer",
+                "rating": 5,
+                "text": "Desserts were heavenly."
+            },
+            {
+                "id": "r012",
+                "username": "SmallPortions",
+                "rating": 4,
+                "text": "Portions are on the smaller side."
+            },
+            {
+                "id": "r013",
+                "username": "WineConnoisseur",
+                "rating": 5,
+                "text": "Great wine list to choose from."
+            },
+            {
+                "id": "r014",
+                "username": "RomanticEvening",
+                "rating": 5,
+                "text": "Ideal for a romantic evening."
+            },
+            {
+                "id": "r015",
+                "username": "Recommender",
+                "rating": 5,
+                "text": "Will definitely recommend to friends."
+            }
+        ],
+        "description": "Empire State Grill offers a luxurious dining experience with panoramic views of the city skyline. Specializing in gourmet cuisine, it's a favorite for both locals and visitors.",
+        "opening_hours": {
+            "Monday": "12:00 PM - 11:00 PM",
+            "Tuesday": "12:00 PM - 11:00 PM",
+            "Wednesday": "12:00 PM - 11:00 PM",
+            "Thursday": "12:00 PM - 12:00 AM",
+            "Friday": "12:00 PM - 12:00 AM",
+            "Saturday": "11:00 AM - 12:00 AM",
+            "Sunday": "11:00 AM - 10:00 PM"
+        },
+        "address": "789 Empire Blvd, New York, NY 10118",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.5368004740427!2d-73.98661318459148!3d40.74881707932613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0x9529b7e4a7b3b42e!2sEmpire%20State%20Building%2C%20New%20York%2C%20NY%2010118%2C%20USA!5e0!3m2!1sen!2s!4v1618506140924!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 212-555-0200",
+        "website": "https://empirestategrill.com",
+        "price_range": "$50 - $100",
+        "meals": [
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "Rooftop Dining",
+            "Live Music",
+            "Reservations",
+            "Private Events"
+        ],
+        "photos": [
+            "https://example.com/empire1.jpg",
+            "https://example.com/empire2.jpg",
+            "https://example.com/empire3.jpg",
+            "https://example.com/empire4.jpg",
+            "https://example.com/empire5.jpg"
+        ]
+    },
+    {
+        "id": "0010",
+        "name": "Greenwich Village Café",
+        "rating": 4.3,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "BohemianVibes",
+                "rating": 5,
+                "text": "Charming café with a bohemian vibe."
+            },
+            {
+                "id": "r002",
+                "username": "PastryLover",
+                "rating": 5,
+                "text": "The pastries are freshly baked and delicious."
+            },
+            {
+                "id": "r003",
+                "username": "Bookworm",
+                "rating": 5,
+                "text": "Great place to relax with a book."
+            },
+            {
+                "id": "r004",
+                "username": "TeaEnthusiast",
+                "rating": 5,
+                "text": "Loved the variety of teas and coffees."
+            },
+            {
+                "id": "r005",
+                "username": "ToastLover",
+                "rating": 4,
+                "text": "The avocado toast was delightful."
+            },
+            {
+                "id": "r006",
+                "username": "FriendlyBarista",
+                "rating": 5,
+                "text": "Friendly baristas and cozy atmosphere."
+            },
+            {
+                "id": "r007",
+                "username": "BrunchCrowd",
+                "rating": 4,
+                "text": "The place gets crowded during brunch."
+            },
+            {
+                "id": "r008",
+                "username": "GardenSeater",
+                "rating": 5,
+                "text": "Lovely outdoor seating in the garden."
+            },
+            {
+                "id": "r009",
+                "username": "SmoothieSipper",
+                "rating": 5,
+                "text": "The smoothies were refreshing."
+            },
+            {
+                "id": "r010",
+                "username": "HiddenGem",
+                "rating": 5,
+                "text": "A hidden gem in the city."
+            },
+            {
+                "id": "r011",
+                "username": "LazySunday",
+                "rating": 5,
+                "text": "Perfect for a lazy Sunday morning."
+            },
+            {
+                "id": "r012",
+                "username": "MusicFan",
+                "rating": 5,
+                "text": "Music selection was eclectic and fun."
+            },
+            {
+                "id": "r013",
+                "username": "QuicheLover",
+                "rating": 5,
+                "text": "The quiche was flavorful and filling."
+            },
+            {
+                "id": "r014",
+                "username": "AfternoonTea",
+                "rating": 4,
+                "text": "Afternoon tea set was delightful."
+            },
+            {
+                "id": "r015",
+                "username": "RegularVisitor",
+                "rating": 5,
+                "text": "I come here often and love it every time."
+            }
+        ],
+        "description": "Greenwich Village Café is a cozy and charming spot that offers an array of coffees, teas, and homemade pastries. A perfect place to unwind in the heart of the city.",
+        "opening_hours": {
+            "Monday": "8:00 AM - 8:00 PM",
+            "Tuesday": "8:00 AM - 8:00 PM",
+            "Wednesday": "8:00 AM - 8:00 PM",
+            "Thursday": "8:00 AM - 9:00 PM",
+            "Friday": "8:00 AM - 9:00 PM",
+            "Saturday": "9:00 AM - 9:00 PM",
+            "Sunday": "9:00 AM - 8:00 PM"
+        },
+        "address": "101 Greenwich Ave, New York, NY 10014",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 646-555-0150",
+        "website": "https://greenwichvillagecafe.com",
+        "price_range": "$10 - $25",
+        "meals": [
+            "Breakfast",
+            "Lunch",
+            "Brunch"
+        ],
+        "features": [
+            "Cozy Atmosphere",
+            "Outdoor Seating",
+            "Takeout"
+        ],
+        "photos": [
+            "https://example.com/greenwich1.jpg",
+            "https://example.com/greenwich2.jpg",
+            "https://example.com/greenwich3.jpg",
+            "https://example.com/greenwich4.jpg",
+            "https://example.com/greenwich5.jpg"
+        ]
+    },
+    {
+        "id": "0011",
+        "name": "Times Square Pizza",
+        "rating": 4.6,
+        "reviews": [
+            {
+                "id": "r001",
+                "username": "PizzaLover",
+                "rating": 5,
+                "text": "Best pizza in the city, hands down."
+            },
+            {
+                "id": "r002",
+                "username": "Tourist",
+                "rating": 5,
+                "text": "A must-visit when in Times Square."
+            },
+            {
+                "id": "r003",
+                "username": "LocalGuide",
+                "rating": 5,
+                "text": "Authentic New York-style pizza."
+            },
+            {
+                "id": "r004",
+                "username": "FamilyTraveler",
+                "rating": 4,
+                "text": "Great for families, but can get crowded."
+            },
+            {
+                "id": "r005",
+                "username": "PepperoniFan",
+                "rating": 5,
+                "text": "The pepperoni pizza is a favorite."
+            },
+            {
+                "id": "r006",
+                "username": "CheeseLover",
+                "rating": 5,
+                "text": "Cheese pizza is cheesy and delicious."
+            },
+            {
+                "id": "r007",
+                "username": "QuickBite",
+                "rating": 4,
+                "text": "Perfect spot for a quick bite."
+            },
+            {
+                "id": "r008",
+                "username": "CrustCruncher",
+                "rating": 5,
+                "text": "Loved the crispy crust."
+            },
+            {
+                "id": "r009",
+                "username": "FriendlyStaff",
+                "rating": 5,
+                "text": "Staff was friendly and helpful."
+            },
+            {
+                "id": "r010",
+                "username": "SliceSavorer",
+                "rating": 5,
+                "text": "Slices are generous and tasty."
+            },
+            {
+                "id": "r011",
+                "username": "TourGroup",
+                "rating": 4,
+                "text": "Great for large groups."
+            },
+            {
+                "id": "r012",
+                "username": "NewYorker",
+                "rating": 5,
+                "text": "Truly captures the essence of NYC pizza."
+            },
+            {
+                "id": "r013",
+                "username": "SauceFanatic",
+                "rating": 5,
+                "text": "The sauce was perfectly seasoned."
+            },
+            {
+                "id": "r014",
+                "username": "VeggieLover",
+                "rating": 4,
+                "text": "Good options for vegetarians."
+            },
+            {
+                "id": "r015",
+                "username": "SliceCraver",
+                "rating": 5,
+                "text": "Craving another slice already!"
+            }
+        ],
+        "description": "Times Square Pizza is a renowned pizza joint offering classic New York-style pizza. Known for its delicious slices and vibrant atmosphere, it's a favorite among locals and tourists.",
+        "opening_hours": {
+            "Monday": "11:00 AM - 11:00 PM",
+            "Tuesday": "11:00 AM - 11:00 PM",
+            "Wednesday": "11:00 AM - 11:00 PM",
+            "Thursday": "11:00 AM - 12:00 AM",
+            "Friday": "11:00 AM - 12:00 AM",
+            "Saturday": "11:00 AM - 12:00 AM",
+            "Sunday": "11:00 AM - 10:00 PM"
+        },
+        "address": "789 Broadway, New York, NY 10036",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.126690787372!2d-73.98702028459218!3d40.7588968793267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855f5d5e5eb%3A0xb9a2f1c4a4b1e5a6!2s789%20Broadway%2C%20New%20York%2C%20NY%2010036%2C%20USA!5e0!3m2!1sen!2s!4v1618506620489!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "+1 212-555-0165",
+        "website": "https://timessquarepizza.com",
+        "price_range": "$10 - $30",
+        "meals": [
+            "Lunch",
+            "Dinner"
+        ],
+        "features": [
+            "Takeout",
+            "Family Friendly",
+            "Late Night"
+        ],
+        "photos": [
+            "https://example.com/timessquare1.jpg",
+            "https://example.com/timessquare2.jpg",
+            "https://example.com/timessquare3.jpg",
+            "https://example.com/timessquare4.jpg",
+            "https://example.com/timessquare5.jpg"
+        ]
+    }
+]
