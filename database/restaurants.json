@@ -119,13 +119,7 @@
             "Vegan Options",
             "Family Friendly"
         ],
-        "photos": [
-            "https://example.com/spicyspoon1.jpg",
-            "https://example.com/spicyspoon2.jpg",
-            "https://example.com/spicyspoon3.jpg",
-            "https://example.com/spicyspoon4.jpg",
-            "https://example.com/spicyspoon5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "002",
@@ -248,13 +242,7 @@
             "Family Friendly",
             "Desserts"
         ],
-        "photos": [
-            "https://example.com/brooklyndiner1.jpg",
-            "https://example.com/brooklyndiner2.jpg",
-            "https://example.com/brooklyndiner3.jpg",
-            "https://example.com/brooklyndiner4.jpg",
-            "https://example.com/brooklyndiner5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "003",
@@ -377,13 +365,7 @@
             "Gourmet",
             "Wine Selection"
         ],
-        "photos": [
-            "https://example.com/centralparkbistro1.jpg",
-            "https://example.com/centralparkbistro2.jpg",
-            "https://example.com/centralparkbistro3.jpg",
-            "https://example.com/centralparkbistro4.jpg",
-            "https://example.com/centralparkbistro5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "004",
@@ -505,13 +487,7 @@
             "Family Friendly",
             "Takeout"
         ],
-        "photos": [
-            "https://example.com/littleitalypizzeria1.jpg",
-            "https://example.com/littleitalypizzeria2.jpg",
-            "https://example.com/littleitalypizzeria3.jpg",
-            "https://example.com/littleitalypizzeria4.jpg",
-            "https://example.com/littleitalypizzeria5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1505275350441-83dcda8eeef5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "005",
@@ -633,13 +609,7 @@
             "Eco-friendly",
             "Healthy Options"
         ],
-        "photos": [
-            "https://example.com/vegandelights1.jpg",
-            "https://example.com/vegandelights2.jpg",
-            "https://example.com/vegandelights3.jpg",
-            "https://example.com/vegandelights4.jpg",
-            "https://example.com/vegandelights5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1571168136613-46401b03904e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "006",
@@ -761,13 +731,7 @@
             "Casual Dining",
             "Outdoor Seating"
         ],
-        "photos": [
-            "https://example.com/theseafoodshack1.jpg",
-            "https://example.com/theseafoodshack2.jpg",
-            "https://example.com/theseafoodshack3.jpg",
-            "https://example.com/theseafoodshack4.jpg",
-            "https://example.com/theseafoodshack5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1521917441209-e886f0404a7b?q=80&w=2060&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "007",
@@ -891,13 +855,7 @@
             "Wheelchair Accessible",
             "Free Wi-Fi"
         ],
-        "photos": [
-            "https://example.com/photo1.jpg",
-            "https://example.com/photo2.jpg",
-            "https://example.com/photo3.jpg",
-            "https://example.com/photo4.jpg",
-            "https://example.com/photo5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?q=80&w=1885&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "008",
@@ -1020,13 +978,7 @@
             "Takeout",
             "Wi-Fi"
         ],
-        "photos": [
-            "https://example.com/brooklyn1.jpg",
-            "https://example.com/b}rooklyn2.jpg",
-            "https://example.com/brooklyn3.jpg",
-            "https://example.com/brooklyn4.jpg",
-            "https://example.com/brooklyn5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "009",
@@ -1149,13 +1101,7 @@
             "Reservations",
             "Private Events"
         ],
-        "photos": [
-            "https://example.com/empire1.jpg",
-            "https://example.com/empire2.jpg",
-            "https://example.com/empire3.jpg",
-            "https://example.com/empire4.jpg",
-            "https://example.com/empire5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "0010",
@@ -1278,13 +1224,7 @@
             "Outdoor Seating",
             "Takeout"
         ],
-        "photos": [
-            "https://example.com/greenwich1.jpg",
-            "https://example.com/greenwich2.jpg",
-            "https://example.com/greenwich3.jpg",
-            "https://example.com/greenwich4.jpg",
-            "https://example.com/greenwich5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1530695801911-f188c516550a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": "0011",
@@ -1406,12 +1346,6 @@
             "Family Friendly",
             "Late Night"
         ],
-        "photos": [
-            "https://example.com/timessquare1.jpg",
-            "https://example.com/timessquare2.jpg",
-            "https://example.com/timessquare3.jpg",
-            "https://example.com/timessquare4.jpg",
-            "https://example.com/timessquare5.jpg"
-        ]
+        "main_photo": "https://images.unsplash.com/photo-1482739627503-c2cb4fc17328?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
 ]
