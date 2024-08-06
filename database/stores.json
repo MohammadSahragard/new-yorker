@@ -1,0 +1,1223 @@
+[
+    {
+        "id": 1,
+        "name": "City Bookstore",
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user_id": 1,
+                "username": "JohnDoe123",
+                "rating": 5,
+                "comment": "Great selection of books and very friendly staff!"
+            },
+            {
+                "user_id": 2,
+                "username": "JaneSmith",
+                "rating": 4,
+                "comment": "Nice place but a bit crowded."
+            },
+            {
+                "user_id": 3,
+                "username": "BookLover",
+                "rating": 5,
+                "comment": "Amazing collection and cozy reading nooks."
+            },
+            {
+                "user_id": 4,
+                "username": "AvidReader",
+                "rating": 3,
+                "comment": "Could be better organized."
+            },
+            {
+                "user_id": 5,
+                "username": "EmilyBrown",
+                "rating": 4,
+                "comment": "Loved the rare book section."
+            },
+            {
+                "user_id": 6,
+                "username": "MarkT",
+                "rating": 5,
+                "comment": "Great place for book lovers."
+            },
+            {
+                "user_id": 7,
+                "username": "AnnaK",
+                "rating": 4,
+                "comment": "Helpful staff and good atmosphere."
+            },
+            {
+                "user_id": 8,
+                "username": "TomR",
+                "rating": 5,
+                "comment": "I found exactly what I was looking for."
+            },
+            {
+                "user_id": 9,
+                "username": "SarahL",
+                "rating": 4,
+                "comment": "Nice spot but parking is an issue."
+            },
+            {
+                "user_id": 10,
+                "username": "JamesB",
+                "rating": 5,
+                "comment": "Excellent service and selection."
+            },
+            {
+                "user_id": 11,
+                "username": "NinaS",
+                "rating": 3,
+                "comment": "It's okay, but a bit pricey."
+            },
+            {
+                "user_id": 12,
+                "username": "ChrisP",
+                "rating": 4,
+                "comment": "Great local bookstore."
+            },
+            {
+                "user_id": 13,
+                "username": "SophiaM",
+                "rating": 5,
+                "comment": "I could spend all day here."
+            },
+            {
+                "user_id": 14,
+                "username": "LiamW",
+                "rating": 4,
+                "comment": "Loved the children's section."
+            },
+            {
+                "user_id": 15,
+                "username": "OliviaH",
+                "rating": 5,
+                "comment": "Perfect place to find gifts for book lovers."
+            }
+        ],
+        "description": "City Bookstore offers a wide variety of books ranging from bestsellers to rare finds in a cozy atmosphere.",
+        "hours": {
+            "monday": "9:00 AM - 8:00 PM",
+            "tuesday": "9:00 AM - 8:00 PM",
+            "wednesday": "9:00 AM - 8:00 PM",
+            "thursday": "9:00 AM - 8:00 PM",
+            "friday": "9:00 AM - 8:00 PM",
+            "saturday": "10:00 AM - 6:00 PM",
+            "sunday": "10:00 AM - 6:00 PM"
+        },
+        "address": "123 Main St, New York, NY 10001",
+        "google_maps_embed": "https://goo.gl/maps/xyz123",
+        "phone": "(212) 555-0199",
+        "website": "https://www.citybookstore.com",
+        "price_range": "$20 - $50",
+        "categories": [
+            "Books",
+            "Stationery"
+        ],
+        "features": [
+            "Free Wi-Fi",
+            "Wheelchair Accessible",
+            "Book Signings"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1718953250280-916192afa371?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "name": "Tech Haven",
+        "rating": 4.3,
+        "reviews": [
+            {
+                "user_id": 16,
+                "username": "TechGuy",
+                "rating": 5,
+                "comment": "Best place for the latest gadgets!"
+            },
+            {
+                "user_id": 17,
+                "username": "GadgetGeek",
+                "rating": 4,
+                "comment": "Prices are competitive, and the staff is knowledgeable."
+            },
+            {
+                "user_id": 18,
+                "username": "LisaM",
+                "rating": 3,
+                "comment": "Good selection, but the staff could be more attentive."
+            },
+            {
+                "user_id": 19,
+                "username": "BobD",
+                "rating": 4,
+                "comment": "I always find what I need here."
+            },
+            {
+                "user_id": 20,
+                "username": "GadgetLover",
+                "rating": 5,
+                "comment": "Fantastic selection of electronics."
+            },
+            {
+                "user_id": 21,
+                "username": "MikeH",
+                "rating": 4,
+                "comment": "Helpful staff and good prices."
+            },
+            {
+                "user_id": 22,
+                "username": "SarahT",
+                "rating": 3,
+                "comment": "Could use more variety in accessories."
+            },
+            {
+                "user_id": 23,
+                "username": "NancyJ",
+                "rating": 4,
+                "comment": "Convenient location and great service."
+            },
+            {
+                "user_id": 24,
+                "username": "KevinR",
+                "rating": 5,
+                "comment": "The best tech store in town."
+            },
+            {
+                "user_id": 25,
+                "username": "EmilyG",
+                "rating": 4,
+                "comment": "Good products but sometimes crowded."
+            },
+            {
+                "user_id": 26,
+                "username": "TomC",
+                "rating": 4,
+                "comment": "Great deals on the latest gadgets."
+            },
+            {
+                "user_id": 27,
+                "username": "ChrisN",
+                "rating": 5,
+                "comment": "Always a pleasure shopping here."
+            },
+            {
+                "user_id": 28,
+                "username": "LauraK",
+                "rating": 3,
+                "comment": "Nice store but could use more staff."
+            },
+            {
+                "user_id": 29,
+                "username": "AlanS",
+                "rating": 4,
+                "comment": "Good selection and reasonable prices."
+            },
+            {
+                "user_id": 30,
+                "username": "KellyB",
+                "rating": 5,
+                "comment": "Love the variety and customer service."
+            }
+        ],
+        "description": "Tech Haven is the go-to destination for the latest electronics, offering a wide range of products from top brands.",
+        "hours": {
+            "monday": "10:00 AM - 9:00 PM",
+            "tuesday": "10:00 AM - 9:00 PM",
+            "wednesday": "10:00 AM - 9:00 PM",
+            "thursday": "10:00 AM - 9:00 PM",
+            "friday": "10:00 AM - 9:00 PM",
+            "saturday": "11:00 AM - 7:00 PM",
+            "sunday": "11:00 AM - 6:00 PM"
+        },
+        "address": "456 Tech Blvd, New York, NY 10002",
+        "google_maps_embed": "https://goo.gl/maps/abc456",
+        "phone": "(212) 555-0123",
+        "website": "https://www.techhaven.com",
+        "price_range": "$15 - $35",
+        "categories": [
+            "Electronics",
+            "Gadgets"
+        ],
+        "features": [
+            "In-Store Pickup",
+            "Online Ordering",
+            "Expert Staff"
+        ],
+        "main_photo": "https://plus.unsplash.com/premium_photo-1661962318201-c7faa790617b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "name": "Fashion Forward",
+        "rating": 4.2,
+        "reviews": [
+            {
+                "user_id": 31,
+                "username": "Fashionista",
+                "rating": 5,
+                "comment": "Always find the latest trends here!"
+            },
+            {
+                "user_id": 32,
+                "username": "StyleGuru",
+                "rating": 4,
+                "comment": "Great variety and quality clothes."
+            },
+            {
+                "user_id": 33,
+                "username": "ChicChick",
+                "rating": 3,
+                "comment": "Nice clothes but overpriced."
+            },
+            {
+                "user_id": 34,
+                "username": "Trendsetter",
+                "rating": 4,
+                "comment": "Good selection and friendly staff."
+            },
+            {
+                "user_id": 35,
+                "username": "FashionFan",
+                "rating": 5,
+                "comment": "Love the accessories section!"
+            },
+            {
+                "user_id": 36,
+                "username": "SophiaS",
+                "rating": 
+          4,
+                "comment": "Trendy clothes and helpful staff."
+            },
+            {
+                "user_id": 37,
+                "username": "StyleSeeker",
+                "rating": 3,
+                "comment": "Could use more sizes."
+            },
+            {
+                "user_id": 38,
+                "username": "LisaL",
+                "rating": 4,
+                "comment": "Great atmosphere and stylish clothes."
+            },
+            {
+                "user_id": 39,
+                "username": "FashionFreak",
+                "rating": 5,
+                "comment": "My go-to place for fashion shopping."
+            },
+            {
+                "user_id": 40,
+                "username": "RachelM",
+                "rating": 4,
+                "comment": "Good quality but a bit expensive."
+            },
+            {
+                "user_id": 41,
+                "username": "HannahB",
+                "rating": 4,
+                "comment": "Love the seasonal sales!"
+            },
+            {
+                "user_id": 42,
+                "username": "EmmaT",
+                "rating": 5,
+                "comment": "Amazing selection and good prices."
+            },
+            {
+                "user_id": 43,
+                "username": "GraceF",
+                "rating": 3,
+                "comment": "Nice clothes but can be crowded."
+            },
+            {
+                "user_id": 44,
+                "username": "StacyP",
+                "rating": 4,
+                "comment": "Friendly staff and great selection."
+            },
+            {
+                "user_id": 45,
+                "username": "OliviaC",
+                "rating": 5,
+                "comment": "Best fashion store in town!"
+            }
+        ],
+        "description": "Fashion Forward offers the latest in trendy and stylish clothing, perfect for fashion enthusiasts.",
+        "hours": {
+            "monday": "10:00 AM - 8:00 PM",
+            "tuesday": "10:00 AM - 8:00 PM",
+            "wednesday": "10:00 AM - 8:00 PM",
+            "thursday": "10:00 AM - 8:00 PM",
+            "friday": "10:00 AM - 8:00 PM",
+            "saturday": "11:00 AM - 7:00 PM",
+            "sunday": "11:00 AM - 6:00 PM"
+        },
+        "address": "789 Fashion Ave, New York, NY 10003",
+        "google_maps_embed": "https://goo.gl/maps/def789",
+        "phone": "(212) 555-0456",
+        "website": "https://www.fashionforward.com",
+        "price_range": "$30 - $70",
+        "categories": [
+            "Clothing",
+            "Accessories"
+        ],
+        "features": [
+            "Online Shopping",
+            "Personal Styling",
+            "Seasonal Sales"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 4,
+        "name": "Gourmet Grocer",
+        "rating": 4.6,
+        "reviews": [
+            {
+                "user_id": 46,
+                "username": "Foodie123",
+                "rating": 5,
+                "comment": "Fantastic selection of gourmet products!"
+            },
+            {
+                "user_id": 47,
+                "username": "ChefMike",
+                "rating": 4,
+                "comment": "Great quality but can be pricey."
+            },
+            {
+                "user_id": 48,
+                "username": "GourmetGal",
+                "rating": 5,
+                "comment": "Love their organic produce section."
+            },
+            {
+                "user_id": 49,
+                "username": "HealthyEater",
+                "rating": 4,
+                "comment": "Wide range of healthy options."
+            },
+            {
+                "user_id": 50,
+                "username": "FoodFanatic",
+                "rating": 5,
+                "comment": "Best place for gourmet ingredients."
+            },
+            {
+                "user_id": 51,
+                "username": "NancyF",
+                "rating": 4,
+                "comment": "Friendly staff and fresh products."
+            },
+            {
+                "user_id": 52,
+                "username": "PeterD",
+                "rating": 3,
+                "comment": "Good variety but some items are expensive."
+            },
+            {
+                "user_id": 53,
+                "username": "KarenB",
+                "rating": 5,
+                "comment": "Love shopping for specialty items here."
+            },
+            {
+                "user_id": 54,
+                "username": "CulinaryArtist",
+                "rating": 4,
+                "comment": "Great place for unique finds."
+            },
+            {
+                "user_id": 55,
+                "username": "OliverP",
+                "rating": 5,
+                "comment": "Always fresh and top quality."
+            },
+            {
+                "user_id": 56,
+                "username": "SophiaL",
+                "rating": 4,
+                "comment": "Convenient location and good service."
+            },
+            {
+                "user_id": 57,
+                "username": "JuliaC",
+                "rating": 5,
+                "comment": "Amazing deli section!"
+            },
+            {
+                "user_id": 58,
+                "username": "ChrisG",
+                "rating": 3,
+                "comment": "A bit overpriced but nice products."
+            },
+            {
+                "user_id": 59,
+                "username": "EmilyD",
+                "rating": 4,
+                "comment": "Good selection and friendly staff."
+            },
+            {
+                "user_id": 60,
+                "username": "JackR",
+                "rating": 5,
+                "comment": "My favorite grocery store!"
+            }
+        ],
+        "description": "Gourmet Grocer offers an exquisite range of gourmet and organic products, catering to all your culinary needs.",
+        "hours": {
+            "monday": "8:00 AM - 9:00 PM",
+            "tuesday": "8:00 AM - 9:00 PM",
+            "wednesday": "8:00 AM - 9:00 PM",
+            "thursday": "8:00 AM - 9:00 PM",
+            "friday": "8:00 AM - 9:00 PM",
+            "saturday": "9:00 AM - 8:00 PM",
+            "sunday": "9:00 AM - 7:00 PM"
+        },
+        "address": "321 Market St, New York, NY 10004",
+        "google_maps_embed": "https://goo.gl/maps/ghi321",
+        "phone": "(212) 555-0789",
+        "website": "https://www.gourmetgrocer.com",
+        "price_range": "$10 - $30",
+        "categories": [
+            "Grocery",
+            "Organic"
+        ],
+        "features": [
+            "Delivery Service",
+            "Online Ordering",
+            "Organic Products"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1529686398651-b8112f4bb98c?q=80&w=1885&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 5,
+        "name": "The Art Corner",
+        "rating": 4.4,
+        "reviews": [
+            {
+                "user_id": 61,
+                "username": "ArtLover",
+                "rating": 5,
+                "comment": "Amazing collection of art supplies!"
+            },
+            {
+                "user_id": 62,
+                "username": "CreativeSoul",
+                "rating": 4,
+                "comment": "Good variety but can be expensive."
+            },
+            {
+                "user_id": 63,
+                "username": "Artist101",
+                "rating": 5,
+                "comment": "My favorite place for art materials."
+            },
+            {
+                "user_id": 64,
+                "username": "PainterPro",
+                "rating": 4,
+                "comment": "Great quality but some items are pricey."
+            },
+            {
+                "user_id": 65,
+                "username": "CraftyKaren",
+                "rating": 5,
+                "comment": "Best place for unique art supplies."
+            },
+            {
+                "user_id": 66,
+                "username": "SarahA",
+                "rating": 4,
+                "comment": "Love the selection and helpful staff."
+            },
+            {
+                "user_id": 67,
+                "username": "TomH",
+                "rating": 3,
+                "comment": "Could use more variety in paints."
+            },
+            {
+                "user_id": 68,
+                "username": "ArtFanatic",
+                "rating": 4,
+                "comment": "Great atmosphere and friendly staff."
+            },
+            {
+                "user_id": 69,
+                "username": "EmilyN",
+                "rating": 5,
+                "comment": "Always find what I need here."
+            },
+            {
+                "user_id": 70,
+                "username": "JohnP",
+                "rating": 4,
+                "comment": "Good quality and reasonable prices."
+            },
+            {
+                "user_id": 71,
+                "username": "HannahS",
+                "rating": 4,
+                "comment": "Nice store but a bit crowded."
+            },
+            {
+                "user_id": 72,
+                "username": "LauraJ",
+                "rating": 5,
+                "comment": "Love the workshops and events."
+            },
+            {
+                "user_id": 73,
+                "username": "ChrisB",
+                "rating": 3,
+                "comment": "Nice selection but could be cheaper."
+            },
+            {
+                "user_id": 74,
+                "username": "AnnaC",
+                "rating":  4,
+                "comment": "Good variety and helpful staff."
+            },
+            {
+                "user_id": 75,
+                "username": "OliviaM",
+                "rating": 5,
+                "comment": "Fantastic place for all art lovers!"
+            }
+        ],
+        "description": "The Art Corner is your one-stop shop for all things art, offering a vast selection of supplies for artists of all levels.",
+        "hours": {
+            "monday": "9:00 AM - 7:00 PM",
+            "tuesday": "9:00 AM - 7:00 PM",
+            "wednesday": "9:00 AM - 7:00 PM",
+            "thursday": "9:00 AM - 7:00 PM",
+            "friday": "9:00 AM - 7:00 PM",
+            "saturday": "10:00 AM - 6:00 PM",
+            "sunday": "10:00 AM - 5:00 PM"
+        },
+        "address": "654 Art St, New York, NY 10005",
+        "google_maps_embed": "https://goo.gl/maps/jkl654",
+        "phone": "(212) 555-0912",
+        "website": "https://www.theartcorner.com",
+        "price_range": "$15 - $40",
+        "categories": [
+            "Art Supplies",
+            "Crafts"
+        ],
+        "features": [
+            "Workshops",
+            "Online Ordering",
+            "Gift Cards"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1507643179773-3e975d7ac515?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 6,
+        "name": "Sports Central",
+        "rating": 4.1,
+        "reviews": [
+            {
+                "user_id": 76,
+                "username": "AthleteMike",
+                "rating": 5,
+                "comment": "Great store for all my sporting needs!"
+            },
+            {
+                "user_id": 77,
+                "username": "FitnessFan",
+                "rating": 4,
+                "comment": "Good selection but can be crowded."
+            },
+            {
+                "user_id": 78,
+                "username": "SportySue",
+                "rating": 3,
+                "comment": "Some items are overpriced."
+            },
+            {
+                "user_id": 79,
+                "username": "RunnerTom",
+                "rating": 4,
+                "comment": "Wide variety of running gear."
+            },
+            {
+                "user_id": 80,
+                "username": "GymRat",
+                "rating": 5,
+                "comment": "Love the range of fitness equipment."
+            },
+            {
+                "user_id": 81,
+                "username": "SarahH",
+                "rating": 4,
+                "comment": "Helpful staff and good prices."
+            },
+            {
+                "user_id": 82,
+                "username": "ChrisK",
+                "rating": 3,
+                "comment": "Could use more sizes in clothing."
+            },
+            {
+                "user_id": 83,
+                "username": "EmmaL",
+                "rating": 4,
+                "comment": "Good quality and variety."
+            },
+            {
+                "user_id": 84,
+                "username": "JamesW",
+                "rating": 5,
+                "comment": "My favorite sports store!"
+            },
+            {
+                "user_id": 85,
+                "username": "HannahF",
+                "rating": 4,
+                "comment": "Love the sales and discounts."
+            },
+            {
+                "user_id": 86,
+                "username": "LiamP",
+                "rating": 3,
+                "comment": "Nice store but sometimes messy."
+            },
+            {
+                "user_id": 87,
+                "username": "NinaG",
+                "rating": 4,
+                "comment": "Great selection of athletic shoes."
+            },
+            {
+                "user_id": 88,
+                "username": "JohnD",
+                "rating": 5,
+                "comment": "Excellent customer service!"
+            },
+            {
+                "user_id": 89,
+                "username": "OliviaT",
+                "rating": 4,
+                "comment": "Good products but parking is an issue."
+            },
+            {
+                "user_id": 90,
+                "username": "SophiaB",
+                "rating": 5,
+                "comment": "Always find what I need here."
+            }
+        ],
+        "description": "Sports Central is your destination for all things sports, offering a comprehensive range of gear and equipment.",
+        "hours": {
+            "monday": "9:00 AM - 9:00 PM",
+            "tuesday": "9:00 AM - 9:00 PM",
+            "wednesday": "9:00 AM - 9:00 PM",
+            "thursday": "9:00 AM - 9:00 PM",
+            "friday": "9:00 AM - 9:00 PM",
+            "saturday": "10:00 AM - 8:00 PM",
+            "sunday": "10:00 AM - 6:00 PM"
+        },
+        "address": "987 Sports Ave, New York, NY 10006",
+        "google_maps_embed": "https://goo.gl/maps/mno987",
+        "phone": "(212) 555-0234",
+        "website": "https://www.sportscentral.com",
+        "price_range": "$20 - $50",
+        "categories": [
+            "Sports Equipment",
+            "Apparel"
+        ],
+        "features": [
+            "Online Shopping",
+            "Membership Discounts",
+            "Free Returns"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1625405998174-1056a9f56306?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 7,
+        "name": "Home Essentials",
+        "rating": 4.3,
+        "reviews": [
+            {
+                "user_id": 91,
+                "username": "HomeMaker",
+                "rating": 5,
+                "comment": "Fantastic store for home decor!"
+            },
+            {
+                "user_id": 92,
+                "username": "InteriorGuru",
+                "rating": 4,
+                "comment": "Great selection but some items are pricey."
+            },
+            {
+                "user_id": 93,
+                "username": "DecorFan",
+                "rating": 3,
+                "comment": "Could use more variety in styles."
+            },
+            {
+                "user_id": 94,
+                "username": "DesignDiva",
+                "rating": 4,
+                "comment": "Love the unique pieces they offer."
+            },
+            {
+                "user_id": 95,
+                "username": "DecorLover",
+                "rating": 5,
+                "comment": "Amazing range of home essentials."
+            },
+            {
+                "user_id": 96,
+                "username": "EmilyS",
+                "rating": 4,
+                "comment": "Helpful staff and good quality."
+            },
+            {
+                "user_id": 97,
+                "username": "TomF",
+                "rating": 3,
+                "comment": "Nice store but can be crowded."
+            },
+            {
+                "user_id": 98,
+                "username": "SarahM",
+                "rating": 4,
+                "comment": "Great atmosphere and friendly staff."
+            },
+            {
+                "user_id": 99,
+                "username": "JamesC",
+                "rating": 5,
+                "comment": "My favorite home decor store!"
+            },
+            {
+                "user_id": 100,
+                "username": "HannahD",
+                "rating": 4,
+                "comment": "Good selection and reasonable prices."
+            },
+            {
+                "user_id": 101,
+                "username": "LiamB",
+                "rating": 4,
+                "comment": "Love the seasonal decor options."
+            },
+            {
+                "user_id": 102,
+                "username": "OliviaA",
+                "rating": 5,
+                "comment": "Always find what I need here."
+            },
+            {
+                "user_id": 103,
+                "username": "ChrisL",
+                "rating": 3,
+                "comment": "Could be better organized."
+            },
+            {
+                "user_id": 104,
+                "username": "AnnaJ",
+                "rating": 4,
+                "comment": "Good variety and quality."
+            },
+            {
+                "user_id": 105,
+                "username": "SophiaE",
+                "rating": 5,
+                "comment": "Best place for home essentials!"
+            }
+        ],
+        "description": "Home Essentials offers a wide range of home decor and furnishings to suit every style and budget.",
+        "hours": {
+            "monday": "10:00 AM - 8:00 PM",
+            "tuesday": "10:00 AM - 8:00 PM",
+            "wednesday": "10:00 AM - 8:00 PM",
+            "thursday": "10:00 AM - 8:00 PM",
+            "friday": "10:00 AM - 8:00 PM",
+            "saturday": "11:00 AM - 7:00 PM",
+            "sunday": "11:00 AM - 6:00 PM"
+        },
+        "address": "123 Decor Rd, New York, NY 10007",
+        "google_maps_embed": "https://goo.gl/maps/pqr123",
+        "phone": "(212) 555-0345",
+        "website": "https://www.homeessentials.com",
+        "price_range": "$30 - $60",
+        "categories": [
+            "Home Decor",
+            "Furniture"
+        ],
+        "features": [
+            "Interior Design Services",
+            "Gift Registry",
+            "Online Shopping"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1501523460185-2aa5d2a0f981?q=80&w=1862&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 8,
+        "name": "Café Delight",
+        "rating": 4.7,
+        "reviews": [
+            {
+                "user_id": 106,
+                "username": "CoffeeLover",
+                "rating": 5,
+                "comment": "Best coffee in town!"
+            },
+            {
+                "user_id": 107,
+                "username": "TeaEnthusiast",
+                "rating": 4,
+                "comment": "Great tea selection and cozy atmosphere."
+            },
+            {
+                "user_id": 108,
+                "username": "PastryFan",
+                "rating": 5,
+                "comment": "Delicious pastries and friendly staff."
+            },
+            {
+                "user_id": 109,
+                "username": "CafeConnoisseur",
+                "rating": 4,
+                "comment": "Good ambiance but can be crowded."
+            },
+            {
+                "user_id": 110,
+                "username": "LatteLover",
+                "rating": 5,
+                "comment": "Love their specialty lattes!"
+            },
+            {
+                "user_id": 111,
+                "username": "BreakfastBlogger",
+                "rating": 4,
+                "comment": "Great breakfast options and good coffee."
+            },
+            {
+                "user_id": 112,
+                "username": "BrunchBabe",
+                "rating": 5,
+                "comment": "Perfect place for weekend brunch."
+            },
+            {
+                "user_id": 113,
+                "username": "FoodieLisa",
+                "rating": 4,
+                "comment": "Nice place but a bit expensive."
+            },
+            {
+                "user_id": 114,
+                "username": "EspressoFan",
+                "rating": 5,
+                "comment": "Best espresso I've ever had!"
+            },
+            {
+                "user_id": 115,
+                "username": "SweetTooth",
+                "rating": 4,
+                "comment": "Great desserts and coffee."
+            },
+            {
+                "user_id": 116,
+                "username": "CafeHopper",
+                "rating": 5,
+                "comment": "My favorite café in the city!"
+            },
+            {
+                "user_id": 117,
+                "username": "VeganVibes",
+                "rating": 4,
+                "comment": "Good vegan options available."
+            },
+            {
+                "user_id": 118,
+                "username": "ChaiLover",
+                "rating": 5,
+                "comment": "Best chai latte around!"
+            },
+            {
+                "user_id": 119,
+                "username": "BreakfastBuff",
+                "rating": 4,
+                "comment": "Tasty breakfast and great service."
+            },
+            {
+                "user_id": 120,
+                "username": "LunchLover",
+                "rating": 5,
+                "comment": "Amazing lunch menu and coffee."
+            }
+        ],
+        "description": "Café Delight offers a cozy atmosphere with a wide variety of coffee, tea, and delicious pastries.",
+        "hours": {
+            "monday": "7:00 AM - 6:00 PM",
+            "tuesday": "7:00 AM - 6:00 PM",
+            "wednesday": "7:00 AM - 6:00 PM",
+            "thursday": "7:00 AM - 6:00 PM",
+            "friday": "7:00 AM - 6:00 PM",
+            "saturday": "8:00 AM - 5:00 PM",
+            "sunday": "8:00 AM - 4:00 PM"
+        },
+        "address": "456 Coffee Ln, New York, NY 10008",
+        "google_maps_embed": "https://goo.gl/maps/xyz456",
+        "phone": "(212) 555-0678",
+        "website": "https://www.cafedelight.com",
+        "price_range": "$15 - $35",
+        "categories": [
+            "Café",
+            "Bakery"
+        ],
+        "features": [
+            "Free Wi-Fi",
+            "Outdoor Seating",
+            "Takeaway"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 9,
+        "name": "Tech Hub",
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user_id": 121,
+                "username": "TechieTim",
+                "rating": 5,
+                "comment": "Best place for all tech gadgets!"
+            },
+            {
+                "user_id": 122,
+                "username": "GadgetGuru",
+                "rating": 4,
+                "comment": "Good selection but can be pricey."
+            },
+            {
+                "user_id": 123,
+                "username": "ElectronicsFan",
+                "rating": 5,
+                "comment": "Love their range of electronics."
+            },
+            {
+                "user_id": 124,
+                "username": "DigitalDiva",
+                "rating": 4,
+                "comment": "Great service but some items are expensive."
+            },
+            {
+                "user_id": 125,
+                "username": "TechLover",
+                "rating": 5,
+                "comment": "Amazing store for all tech needs."
+            },
+            {
+                "user_id": 126,
+                "username": "GadgetGuy",
+                "rating": 4,
+                "comment": "Helpful staff and good quality."
+            },
+            {
+                "user_id": 127,
+                "username": "SmartShopper",
+                "rating": 3,
+                "comment": "Nice store but can be crowded."
+            },
+            {
+                "user_id": 128,
+                "username": "TechEnthusiast",
+                "rating": 4,
+                "comment": "Good variety and reasonable prices."
+            },
+            {
+                "user_id": 129,
+                "username": "GizmoGal",
+                "rating": 5,
+                "comment": "My favorite electronics store!"
+            },
+            {
+                "user_id": 130,
+                "username": "DigitalDean",
+                "rating": 4,
+                "comment": "Love the tech workshops they offer."
+            },
+            {
+                "user_id": 131,
+                "username": "GadgetGeek",
+                "rating": 5,
+                "comment": "Best place for the latest gadgets!"
+            },
+            {
+                "user_id": 132,
+                "username": "TechSavvy",
+                "rating": 4,
+                "comment": "Good products but parking is an issue."
+            },
+            {
+                "user_id": 133,
+                "username": "GadgetFanatic",
+                "rating": 5,
+                "comment": "Always find what I need here."
+            },
+            {
+                "user_id": 134,
+                "username": "DeviceDude",
+                "rating": 4,
+                "comment": "Great selection and friendly staff."
+            },
+            {
+                "user_id": 135,
+                "username": "GizmoGoddess",
+                "rating": 5,
+                "comment": "Love this tech store!"
+            }
+        ],
+        "description": "Tech Hub offers the latest in technology and electronics, featuring a wide array of gadgets and devices.",
+        "hours": {
+            "monday": "9:00 AM - 8:00 PM",
+            "tuesday": "9:00 AM - 8:00 PM",
+            "wednesday": "9:00 AM - 8:00 PM",
+            "thursday": "9:00 AM - 8:00 PM",
+            "friday": "9:00 AM - 8:00 PM",
+            "saturday": "10:00 AM - 7:00 PM",
+            "sunday": "10:00 AM - 6:00 PM"
+        },
+        "address": "789 Tech Blvd, New York, NY 10009",
+        "google_maps_embed": "https://goo.gl/maps/uvw789",
+        "phone": "(212) 555-0890",
+        "website": "https://www.techhub.com",
+        "price_range": "$50 - $100",
+        "categories": [
+            "Electronics",
+            "Gadgets"
+        ],
+        "features": [
+            "Tech Support",
+            "Workshops",
+            "Online Shopping"
+        ],
+        "main_photo": "https://plus.unsplash.com/premium_photo-1670315264879-59cc6b15db5f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 10,
+        "name": "Book Haven",
+        "rating": 4.9,
+        "reviews": [
+            {
+                "user_id": 136,
+                "username": "BookwormBeth",
+                "rating": 5,
+                "comment": "Amazing bookstore with a huge selection!"
+            },
+            {
+                "user_id": 137,
+                "username": "LiteratureLover",
+                "rating": 5,
+                "comment": "Love the cozy reading nooks."
+            },
+            {
+                "user_id": 138,
+                "username": "PageTurner",
+                "rating": 5,
+                "comment": "Great place for book lovers!"
+            },
+            {
+                "user_id": 139,
+                "username": "NovelNut",
+                "rating": 4,
+                "comment": "Good variety but some books are expensive."
+            },
+            {
+                "user_id": 140,
+                "username": "FictionFan",
+                "rating": 5,
+                "comment": "My favorite bookstore!"
+            },
+            {
+                "user_id": 141,
+                "username": "ReadingRita",
+                "rating": 4,
+                "comment": "Nice selection and friendly staff."
+            },
+            {
+                "user_id": 142,
+                "username": "StorySeeker",
+                "rating": 5,
+                "comment": "Love the  recommendations from staff."
+            },
+            {
+                "user_id": 143,
+                "username": "BookBuff",
+                "rating": 4,
+                "comment": "Great selection but can be crowded."
+            },
+            {
+                "user_id": 144,
+                "username": "HardcoverHarry",
+                "rating": 5,
+                "comment": "Best place for rare finds."
+            },
+            {
+                "user_id": 145,
+                "username": "PaperbackPaul",
+                "rating": 4,
+                "comment": "Good variety and reasonable prices."
+            },
+            {
+                "user_id": 146,
+                "username": "LiteraryLiz",
+                "rating": 5,
+                "comment": "Fantastic children's section."
+            },
+            {
+                "user_id": 147,
+                "username": "EpicEmily",
+                "rating": 4,
+                "comment": "Great events and book signings."
+            },
+            {
+                "user_id": 148,
+                "username": "ReadingRachel",
+                "rating": 5,
+                "comment": "Love the atmosphere and coffee shop."
+            },
+            {
+                "user_id": 149,
+                "username": "MysteryMegan",
+                "rating": 4,
+                "comment": "Nice store but parking is an issue."
+            },
+            {
+                "user_id": 150,
+                "username": "ClassicClara",
+                "rating": 5,
+                "comment": "Always find what I'm looking for."
+            }
+        ],
+        "description": "Book Haven is a paradise for book lovers, offering an extensive selection of books across all genres and cozy reading nooks.",
+        "hours": {
+            "monday": "10:00 AM - 8:00 PM",
+            "tuesday": "10:00 AM - 8:00 PM",
+            "wednesday": "10:00 AM - 8:00 PM",
+            "thursday": "10:00 AM - 8:00 PM",
+            "friday": "10:00 AM - 8:00 PM",
+            "saturday": "11:00 AM - 7:00 PM",
+            "sunday": "11:00 AM - 6:00 PM"
+        },
+        "address": "321 Book St, New York, NY 10010",
+        "google_maps_embed": "https://goo.gl/maps/abc321",
+        "phone": "(212) 555-0911",
+        "website": "https://www.bookhaven.com",
+        "price_range": "$10 - $25",
+        "categories": [
+            "Books",
+            "Café"
+        ],
+        "features": [
+            "Reading Nooks",
+            "Book Signings",
+            "Online Store"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1526248283201-fafd30eb2b90?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

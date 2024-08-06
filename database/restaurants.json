@@ -859,129 +859,6 @@
     },
     {
         "id": "008",
-        "name": "Brooklyn Diner",
-        "rating": 4.2,
-        "reviews": [
-            {
-                "id": "r001",
-                "username": "DinerFan",
-                "rating": 5,
-                "text": "Authentic diner experience with classic dishes."
-            },
-            {
-                "id": "r002",
-                "username": "PancakeLover",
-                "rating": 5,
-                "text": "Loved the pancakes and milkshakes!"
-            },
-            {
-                "id": "r003",
-                "username": "QuickBite",
-                "rating": 4,
-                "text": "A bit crowded, but service was quick."
-            },
-            {
-                "id": "r004",
-                "username": "FamilyBruncher",
-                "rating": 5,
-                "text": "Perfect place for a family brunch."
-            },
-            {
-                "id": "r005",
-                "username": "RetroFan",
-                "rating": 4,
-                "text": "The retro decor is charming."
-            },
-            {
-                "id": "r006",
-                "username": "BurgerBuddie",
-                "rating": 5,
-                "text": "Burgers are a must-try."
-            },
-            {
-                "id": "r007",
-                "username": "GenerousEater",
-                "rating": 5,
-                "text": "Portions are generous and satisfying."
-            },
-            {
-                "id": "r008",
-                "username": "ValueSeeker",
-                "rating": 5,
-                "text": "Great value for the money."
-            },
-            {
-                "id": "r009",
-                "username": "AttentiveStaff",
-                "rating": 5,
-                "text": "Staff was friendly and attentive."
-            },
-            {
-                "id": "r010",
-                "username": "NoisyTimes",
-                "rating": 3,
-                "text": "Can get noisy during peak hours."
-            },
-            {
-                "id": "r011",
-                "username": "CoffeeLover",
-                "rating": 5,
-                "text": "The coffee was excellent."
-            },
-            {
-                "id": "r012",
-                "username": "PublicTransport",
-                "rating": 4,
-                "text": "Parking is tricky, use public transport."
-            },
-            {
-                "id": "r013",
-                "username": "BreakfastBuff",
-                "rating": 5,
-                "text": "Nice selection of breakfast items."
-            },
-            {
-                "id": "r014",
-                "username": "ReturnVisitor",
-                "rating": 5,
-                "text": "Would love to come back!"
-            },
-            {
-                "id": "r015",
-                "username": "EggFanatic",
-                "rating": 4,
-                "text": "The egg sandwiches are a favorite."
-            }
-        ],
-        "description": "Brooklyn Diner captures the essence of the classic American diner with a modern twist. Offering hearty meals and a cozy atmosphere, it's a go-to spot for locals and tourists alike.",
-        "opening_hours": {
-            "Monday": "7:00 AM - 9:00 PM",
-            "Tuesday": "7:00 AM - 9:00 PM",
-            "Wednesday": "7:00 AM - 9:00 PM",
-            "Thursday": "7:00 AM - 10:00 PM",
-            "Friday": "7:00 AM - 10:00 PM",
-            "Saturday": "8:00 AM - 10:00 PM",
-            "Sunday": "8:00 AM - 8:00 PM"
-        },
-        "address": "456 Brooklyn Ave, Brooklyn, NY 11201",
-        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.0336044021274!2d-73.99003628459292!3d40.69308297933353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a2155d5e1d7%3A0xe0d52baf0f194a2a!2s456%20Brooklyn%20Ave%2C%20Brooklyn%2C%20NY%2011201%2C%20USA!5e0!3m2!1sen!2s!4v1618505973325!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-        "phone": "+1 718-555-0144",
-        "website": "https://brooklyndiner.com",
-        "price_range": "$15 - $35",
-        "meals": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
-        "features": [
-            "Family Friendly",
-            "Takeout",
-            "Wi-Fi"
-        ],
-        "main_photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    },
-    {
-        "id": "009",
         "name": "Empire State Grill",
         "rating": 4.8,
         "reviews": [
@@ -1104,7 +981,7 @@
         "main_photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "id": "0010",
+        "id": "009",
         "name": "Greenwich Village Café",
         "rating": 4.3,
         "reviews": [
@@ -1227,7 +1104,7 @@
         "main_photo": "https://images.unsplash.com/photo-1530695801911-f188c516550a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "id": "0011",
+        "id": "010",
         "name": "Times Square Pizza",
         "rating": 4.6,
         "reviews": [
