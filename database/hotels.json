@@ -1,0 +1,1245 @@
+[
+    {
+        "id": "001",
+        "name": "Grand Central Hotel",
+        "rating": 4.8,
+        "reviews": [
+            {
+                "user_id": 1,
+                "username": "TravelerTom",
+                "rating": 5,
+                "comment": "Exceptional service and location!"
+            },
+            {
+                "user_id": 2,
+                "username": "LuxuryLara",
+                "rating": 5,
+                "comment": "Loved the luxurious rooms."
+            },
+            {
+                "user_id": 3,
+                "username": "VacationVicky",
+                "rating": 4,
+                "comment": "Great amenities but pricey."
+            },
+            {
+                "user_id": 4,
+                "username": "HappyHarry",
+                "rating": 5,
+                "comment": "Wonderful experience overall."
+            },
+            {
+                "user_id": 5,
+                "username": "CityChris",
+                "rating": 4,
+                "comment": "Central location and friendly staff."
+            },
+            {
+                "user_id": 6,
+                "username": "SuiteSue",
+                "rating": 5,
+                "comment": "Amazing suites and service."
+            },
+            {
+                "user_id": 7,
+                "username": "RelaxedRita",
+                "rating": 4,
+                "comment": "Comfortable stay but expensive."
+            },
+            {
+                "user_id": 8,
+                "username": "HotelHopper",
+                "rating": 5,
+                "comment": "My favorite hotel in NYC!"
+            },
+            {
+                "user_id": 9,
+                "username": "LuxuryLou",
+                "rating": 4,
+                "comment": "Beautiful rooms and great view."
+            },
+            {
+                "user_id": 10,
+                "username": "HappyHannah",
+                "rating": 5,
+                "comment": "Top-notch service and comfort."
+            },
+            {
+                "user_id": 11,
+                "username": "TravelingTina",
+                "rating": 4,
+                "comment": "Great location and friendly staff."
+            },
+            {
+                "user_id": 12,
+                "username": "SuiteSam",
+                "rating": 5,
+                "comment": "Luxurious rooms and amenities."
+            },
+            {
+                "user_id": 13,
+                "username": "RelaxedRon",
+                "rating": 4,
+                "comment": "Good experience but expensive."
+            },
+            {
+                "user_id": 14,
+                "username": "HotelFan",
+                "rating": 5,
+                "comment": "Excellent hotel in every aspect."
+            },
+            {
+                "user_id": 15,
+                "username": "LuxuryLiam",
+                "rating": 4,
+                "comment": "Beautiful rooms and great location."
+            }
+        ],
+        "description": "Grand Central Hotel offers luxurious accommodations and a prime location in the heart of New York City.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "123 Grand Ave, New York, NY 10001",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 555-1234",
+        "website": "https://www.grandcentralhotel.com",
+        "price_range": "$20 - $50",
+        "categories": [
+            "Luxury",
+            "Hotel"
+        ],
+        "features": [
+            "Free Wi-Fi",
+            "Spa",
+            "Restaurant",
+            "Bar",
+            "Fitness Center",
+            "Room Service"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": "002",
+        "name": "Urban Retreat Hotel",
+        "rating": 4.7,
+        "reviews": [
+            {
+                "user_id": 16,
+                "username": "CityTraveler",
+                "rating": 5,
+                "comment": "Perfect location and great service."
+            },
+            {
+                "user_id": 17,
+                "username": "ComfortQueen",
+                "rating": 4,
+                "comment": "Comfortable rooms and friendly staff."
+            },
+            {
+                "user_id": 18,
+                "username": "LuxuryLuke",
+                "rating": 5,
+                "comment": "Beautiful hotel with excellent amenities."
+            },
+            {
+                "user_id": 19,
+                "username": "VacationVictor",
+                "rating": 4,
+                "comment": "Nice place but can be crowded."
+            },
+            {
+                "user_id": 20,
+                "username": "HotelHappy",
+                "rating": 5,
+                "comment": "Fantastic stay and great value."
+            },
+            {
+                "user_id": 21,
+                "username": "TravelTina",
+                "rating": 4,
+                "comment": "Good location and clean rooms."
+            },
+            {
+                "user_id": 22,
+                "username": "SuiteSarah",
+                "rating": 5,
+                "comment": "Loved the spacious suites."
+            },
+            {
+                "user_id": 23,
+                "username": "RelaxedRay",
+                "rating": 4,
+                "comment": "Great hotel but expensive."
+            },
+            {
+                "user_id": 24,
+                "username": "TravelerTess",
+                "rating": 5,
+                "comment": "Amazing experience and service."
+            },
+            {
+                "user_id": 25,
+                "username": "LuxuryLola",
+                "rating": 4,
+                "comment": "Beautiful hotel and great amenities."
+            },
+            {
+                "user_id": 26,
+                "username": "ComfortCraig",
+                "rating": 5,
+                "comment": "Loved the comfortable rooms."
+            },
+            {
+                "user_id": 27,
+                "username": "CitySlicker",
+                "rating": 4,
+                "comment": "Convenient location and nice staff."
+            },
+            {
+                "user_id": 28,
+                "username": "HappyHelen",
+                "rating": 5,
+                "comment": "Wonderful hotel and great service."
+            },
+            {
+                "user_id": 29,
+                "username": "TravelerTommy",
+                "rating": 4,
+                "comment": "Nice place but can be noisy."
+            },
+            {
+                "user_id": 30,
+                "username": "LuxuryLinda",
+                "rating": 5,
+                "comment": "Fantastic hotel with luxurious rooms."
+            }
+        ],
+        "description": "Urban Retreat Hotel provides a tranquil escape in the bustling city, offering modern amenities and elegant accommodations.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "456 Urban St, New York, NY 10002",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 555-5678",
+        "website": "https://www.urbanretreathotel.com",
+        "price_range": "$15 - $35",
+        "categories": [
+            "Modern",
+            "Hotel"
+        ],
+        "features": [
+            "Free Wi-Fi",
+            "Spa",
+            "Restaurant",
+            "Bar",
+            "Fitness Center",
+            "Business Center"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": "003",
+        "name": "Cityscape Hotel",
+        "rating": 4.6,
+        "reviews": [
+            {
+                "user_id": 31,
+                "username": "SkylineSam",
+                "rating": 5,
+                "comment": "Amazing views and great service!"
+            },
+            {
+                "user_id": 32,
+                "username": "HighRiseHelen",
+                "rating": 4,
+                "comment": "Loved the rooftop bar and restaurant."
+            },
+            {
+                "user_id": 33,
+                "username": "CityLover",
+                "rating": 5,
+                "comment": "Beautiful hotel with stunning views."
+            },
+            {
+                "user_id": 34,
+                "username": "UrbanExplorer",
+                "rating": 4,
+                "comment": "Good location but can be busy."
+            },
+            {
+                "user_id": 35,
+                "username": "HotelFanatic",
+                "rating": 5,
+                "comment": "Fantastic hotel and service."
+            },
+            {
+                "user_id": 36,
+                "username": "RooftopRita",
+                "rating": 4,
+                "comment": "Great rooftop views and atmosphere."
+            },
+            {
+                "user_id": 37,
+                "username": "SkylineSteve",
+                "rating": 5,
+                "comment": "Love the modern rooms and views."
+            },
+            {
+                "user_id": 38,
+                "username": "HotelHopper",
+                "rating": 4,
+                "comment": "Nice hotel but expensive."
+            },
+            {
+                "user_id": 39,
+                "username": "CityChic",
+                "rating": 5,
+                "comment": "Beautiful design and great location."
+            },
+            {
+                "user_id": 40,
+                "username": "UrbanUrsula",
+                "rating": 4,
+                "comment": "Good hotel but busy location."
+            },
+            {
+                "user_id": 41,
+                "username": "LuxuryLana",
+                "rating": 5,
+                "comment": "Fantastic views and service."
+            },
+            {
+                "user_id": 42,
+                "username": "TravelerTim",
+                "rating": 4,
+                "comment": "Nice hotel but a bit crowded."
+            },
+            {
+                "user_id": 43,
+                "username": "SkylineSue",
+                "rating": 5,
+                "comment": "Amazing rooftop and views."
+            },
+            {
+                "user_id": 44,
+                "username": "CityCathy",
+                "rating": 4,
+                "comment": "Good location and nice rooms."
+            },
+            {
+                "user_id": 45,
+                "username": "LuxuryLou",
+                "rating": 5,
+                "comment": "Loved the modern design and views."
+            }
+        ],
+        "description": "Cityscape Hotel offers breathtaking views of the city skyline, luxurious rooms, and top-notch amenities in the heart of New York.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "789 Skyline Blvd, New York, NY 10003",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 555-9876",
+        "website": "https://www.cityscapehotel.com",
+        "price_range": "$30 - $70",
+        "categories": [
+            "Luxury",
+            "Hotel"
+        ],
+        "features": [
+            "Rooftop Bar",
+            "Free Wi-Fi",
+            "Spa",
+            "Restaurant",
+            "Fitness Center",
+            "Conference Rooms"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1621293954908-907159247fc8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": "004",
+        "name": "The Metropolitan Inn",
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user_id": 46,
+                "username": "TravelerTori",
+                "rating": 5,
+                "comment": "Charming hotel with excellent service."
+            },
+            {
+                "user_id": 47,
+                "username": "MetroMandy",
+                "rating": 4,
+                "comment": "Great location and comfortable rooms."
+            },
+            {
+                "user_id": 48,
+                "username": "CitySlicker",
+                "rating": 5,
+                "comment": "Loved the historic charm and amenities."
+            },
+            {
+                "user_id": 49,
+                "username": "UrbanAdventurer",
+                "rating": 4,
+                "comment": "Good hotel but parking is limited."
+            },
+            {
+                "user_id": 50,
+                "username": "HotelHelen",
+                "rating": 5,
+                "comment": "Fantastic experience and friendly staff."
+            },
+            {
+                "user_id": 51,
+                "username": "CityTraveler",
+                "rating": 4,
+                "comment": "Nice hotel but can be noisy."
+            },
+            {
+                "user_id": 52,
+                "username": "LuxuryLarry",
+                "rating": 5,
+                "comment": "Beautiful hotel with great service."
+            },
+            {
+                "user_id": 53,
+                "username": "RelaxedRiley",
+                "rating": 4,
+                "comment": "Comfortable stay but a bit pricey."
+            },
+            {
+                "user_id": 54,
+                "username": "TravelerTina",
+                "rating": 5,
+                "comment": "Amazing hotel and location."
+            },
+            {
+                "user_id": 55,
+                "username": "MetroMike",
+                "rating": 4,
+                "comment": "Good experience but room was small."
+            },
+            {
+                "user_id": 56,
+                "username": "LuxuryLisa",
+                "rating": 5,
+                "comment": "Fantastic service and accommodations."
+            },
+            {
+                "user_id": 57,
+                "username": "CityChloe",
+                "rating": 4,
+                "comment": "Great location and nice staff."
+            },
+            {
+                "user_id": 58,
+                "username": "HappyHenry",
+                "rating": 5,
+                "comment": "Wonderful hotel with great amenities."
+            },
+            {
+                "user_id": 59,
+                "username": "TravelerTim",
+                "rating": 4,
+                "comment": "Nice hotel but busy area."
+            },
+            {
+                "user_id": 60,
+                "username": "LuxuryLara",
+                "rating": 5,
+                "comment": "Loved the historic charm and service."
+            }
+        ],
+        "description": "The Metropolitan Inn offers a blend of historic charm and modern comfort, providing a unique and memorable stay in the heart of the city.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "234 Metro Ave, New York, NY 10004",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 555-2345",
+        "website": "https://www.themetropolitaninn.com",
+        "price_range": "$10 - $30",
+        "categories": [
+            "Historic",
+            "Hotel"
+        ],
+        "features": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Bar",
+            "Fitness Center",
+            "Business Center"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1611048267451-e6ed903d4a38?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": "005",
+        "name": "Central Park Hotel",
+        "rating": 4.9,
+        "reviews": [
+            {
+                "user_id": 61,
+                "username": "ParkLover",
+                "rating": 5,
+                "comment": "Amazing location next to Central Park!"
+            },
+            {
+                "user_id": 62,
+                "username": "NatureNina",
+                "rating": 5,
+                "comment": "Loved the view and peaceful setting."
+            },
+            {
+                "user_id": 63,
+                "username": "CitySophie",
+                "rating": 4,
+                "comment": "Great hotel but can be pricey."
+            },
+            {
+                "user_id": 64,
+                "username": "RelaxedRandy",
+                "rating": 5,
+                "comment": "Wonderful stay with great service."
+            },
+            {
+                "user_id": 65,
+                "username": "TravelerTara",
+                "rating": 4,
+                "comment": "Nice hotel but room was small."
+            },
+            {
+                "user_id": 66,
+                "username": "LuxuryLinda",
+                "rating": 5,
+                "comment": "Fantastic hotel and amenities."
+            },
+            {
+                "user_id": 67,
+                "username": "ParkPam",
+                "rating": 5,
+                "comment": "Loved the location and service."
+            },
+            {
+                "user_id": 68,
+                "username": "NatureNick",
+                "rating": 4,
+                "comment": "Great hotel but expensive."
+            },
+            {
+                "user_id": 69,
+                "username": "CityCarlos",
+                "rating": 5,
+                "comment": "Beautiful hotel and perfect location."
+            },
+            {
+                "user_id": 70,
+                "username": "RelaxedRebecca",
+                "rating": 4,
+                "comment": "Good hotel but busy area."
+            },
+            {
+                "user_id": 71,
+                "username": "TravelerTim",
+                "rating": 5,
+                "comment": "Amazing views and great service."
+            },
+            {
+                "user_id": 72,
+                "username": "LuxuryLiam",
+                "rating": 4,
+                "comment": "Beautiful hotel but can be crowded."
+            },
+            {
+                "user_id": 73,
+                "username": "ParkPatty",
+                "rating": 5,
+                "comment": "Loved the location and atmosphere."
+            },
+            {
+                "user_id": 74,
+                "username": "NatureNate",
+                "rating": 4,
+                "comment": "Good experience but expensive."
+            },
+            {
+                "user_id": 75,
+                "username": "CityCheryl",
+                "rating": 5,
+                "comment": "Fantastic hotel and service."
+            }
+        ],
+        "description": "Central Park Hotel offers luxury accommodations with stunning views and a prime location right next to Central Park.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "567 Park Ave, New York, NY 10005",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 555-5678",
+        "website": "https://www.centralparkhotel.com",
+        "price_range": "$15 - $40",
+        "categories": [
+            "Luxury",
+            "Hotel"
+        ],
+        "features": [
+            "Park Views",
+            "Free Wi-Fi",
+            "Spa",
+            "Restaurant",
+            "Fitness Center",
+            "Room Service"
+        ],
+        "main_photo": "https://plus.unsplash.com/premium_photo-1661902745675-11846e4f9a41?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": "006",
+        "name": "The Empire Hotel",
+        "rating": 4.4,
+        "reviews": [
+            {
+                "user_id": 76,
+                "username": "EmpireElliot",
+                "rating": 5,
+                "comment": "Wonderful hotel with great history."
+            },
+            {
+                "user_id": 77,
+                "username": "TravelerTina",
+                "rating": 4,
+                "comment": "Good location but a bit noisy."
+            },
+            {
+                "user_id": 78,
+                "username": "LuxuryLucy",
+                "rating": 5,
+                "comment": "Loved the elegant rooms and service."
+            },
+            {
+                "user_id": 79,
+                "username": "CityCam",
+                "rating": 4,
+                "comment": "Nice hotel but can be crowded."
+            },
+            {
+                "user_id": 80,
+                "username": "EmpireElla",
+                "rating": 5,
+                "comment": "Fantastic experience and friendly staff."
+            },
+            {
+                "user_id": 81,
+                "username": "HappyHank",
+                "rating": 4,
+                "comment": "Good hotel but room was small."
+            },
+            {
+                "user_id": 82,
+                "username": "TravelerTom",
+                "rating": 5,
+                "comment": "Amazing hotel with great amenities."
+            },
+            {
+                "user_id": 83,
+                "username": "LuxuryLena",
+                "rating": 4,
+                "comment": "Beautiful hotel but expensive."
+            },
+            {
+                "user_id": 84,
+                "username": "EmpireEd",
+                "rating": 5,
+                "comment": "Loved the historic charm and service."
+            },
+            {
+                "user_id": 85,
+                "username": "CityCarrie",
+                "rating": 4,
+                "comment": "Good location but can be noisy."
+            },
+            {
+                "user_id": 86,
+                "username": "LuxuryLeo",
+                "rating": 5,
+                "comment": "Fantastic hotel and service."
+            },
+            {
+                "user_id": 87,
+                "username": "EmpireErin",
+                "rating": 4,
+                "comment": "Nice hotel but a bit crowded."
+            },
+            {
+                "user_id": 88,
+                "username": "TravelerTara",
+                "rating": 5,
+                "comment": "Loved the elegance and service."
+            },
+            {
+                "user_id": 89,
+                "username": "LuxuryLogan",
+                "rating": 4,
+                "comment": "Good experience but expensive."
+            },
+            {
+                "user_id": 90,
+                "username": "EmpireEve",
+                "rating": 5,
+                "comment": "Beautiful hotel with great history."
+            }
+        ],
+        "description": "The Empire Hotel combines elegance and history, offering luxurious accommodations and exceptional service in a historic setting.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "890 Empire Blvd, New York, NY 10006",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 555-8901",
+        "website": "https://www.theempirehotel.com",
+        "price_range": "$20 - $50",
+        "categories": [
+            "Historic",
+            "Hotel"
+        ],
+        "features": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Bar",
+            "Fitness Center",
+            "Business Center"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1546967900-1bea5f16b69d?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": "007",
+        "name": "Boutique Haven Hotel",
+        "rating": 4.8,
+        "reviews": [
+            {
+                "user_id": 91,
+                "username": "BoutiqueBella",
+                "rating": 5,
+                "comment": "Charming boutique hotel with great service."
+            },
+            {
+                "user_id": 92,
+                "username": "LuxuryLucy",
+                "rating": 4,
+                "comment": "Beautiful hotel but can be pricey."
+            },
+            {
+                "user_id": 93,
+                "username": "CityCharlie",
+                "rating": 5,
+                "comment": "Loved the unique design and amenities."
+            },
+            {
+                "user_id": 94,
+                "username": "TravelerTina",
+                "rating": 4,
+                "comment": "Nice hotel but room was small."
+            },
+            {
+                "user_id": 95,
+                "username": "HappyHarry",
+                "rating": 5,
+                "comment": "Fantastic hotel and great location."
+            },
+            {
+                "user_id": 96,
+                "username": "BoutiqueBen",
+                "rating": 4,
+                "comment": "Good hotel but can be crowded."
+            },
+            {
+                "user_id": 97,
+                "username": "LuxuryLinda",
+                "rating": 5,
+                "comment": "Amazing hotel with unique design."
+            },
+            {
+                "user_id": 98,
+                "username": "CityCathy",
+                "rating": 4,
+                "comment": "Nice location but can be noisy."
+            },
+            {
+                "user_id": 99,
+                "username": "BoutiqueBeth",
+                "rating": 5,
+                "comment": "Loved the charm and service."
+            },
+            {
+                "user_id": 100,
+                "username": "TravelerTom",
+                "rating": 4,
+                "comment": "Good experience but expensive."
+            },
+            {
+                "user_id": 101,
+                "username": "LuxuryLiam",
+                "rating": 5,
+                "comment": "Fantastic hotel with great amenities."
+            },
+            {
+                "user_id": 102,
+                "username": "BoutiqueBella",
+                "rating": 4,
+                "comment": "Nice hotel but room was small."
+            },
+            {
+                "user_id": 103,
+                "username": "CityChris",
+                "rating": 5,
+                "comment": "Loved the location and charm."
+            },
+            {
+                "user_id": 104,
+                "username": "TravelerTim",
+                "rating": 4,
+                "comment": "Good hotel but a bit pricey."
+            },
+            {
+                "user_id": 105,
+                "username": "LuxuryLara",
+                "rating": 5,
+                "comment": "Amazing service and unique design."
+            }
+        ],
+        "description": "Boutique Haven Hotel offers a unique and personalized experience, featuring elegant design and exceptional service in a charming setting.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "345 Boutique Ln, New York, NY 10007",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 555-2345",
+        "website": "https://www.boutiquehavenhotel.com",
+        "price_range": "$30 - $60",
+        "categories": [
+            "Boutique",
+            "Hotel"
+        ],
+        "features": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Bar",
+            "Fitness Center",
+            "Spa"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": "008",
+        "name": "SoHo Grand Hotel",
+        "rating": 4.7,
+        "reviews": [
+            {
+                "user_id": 106,
+                "username": "SoHoSophie",
+                "rating": 5,
+                "comment": "Amazing hotel in the heart of SoHo!"
+            },
+            {
+                "user_id": 107,
+                "username": "CityChic",
+                "rating": 4,
+                "comment": "Great location but can be busy."
+            },
+            {
+                "user_id": 108,
+                "username": "LuxuryLou",
+                "rating": 5,
+                "comment": "Loved the stylish design and service."
+            },
+            {
+                "user_id": 109,
+                "username": "TravelerTara",
+                "rating": 4,
+                "comment": "Nice hotel but a bit pricey."
+            },
+            {
+                "user_id": 110,
+                "username": "HappyHolly",
+                "rating": 5,
+                "comment": "Fantastic hotel and location."
+            },
+            {
+                "user_id": 111,
+                "username": "SoHoSteve",
+                "rating": 4,
+                "comment": "Good hotel but can be crowded."
+            },
+            {
+                "user_id": 112,
+                "username": "LuxuryLara",
+                "rating": 5,
+                "comment": "Amazing service and stylish rooms."
+            },
+            {
+                "user_id": 113,
+                "username": "CityCasey",
+                "rating": 4,
+                "comment": "Nice hotel but room was small."
+            },
+            {
+                "user_id": 114,
+                "username": "SoHoSam",
+                "rating": 5,
+                "comment": "Loved the location and atmosphere."
+            },
+            {
+                "user_id": 115,
+                "username": "TravelerTim",
+                "rating": 4,
+                "comment": "Great experience but expensive."
+            },
+            {
+                "user_id": 116,
+                "username": "LuxuryLiam",
+                "rating": 5,
+                "comment": "Fantastic hotel with great amenities."
+            },
+            {
+                "user_id": 117,
+                "username": "SoHoSara",
+                "rating": 4,
+                "comment": "Nice hotel but can be noisy."
+            },
+            {
+                "user_id": 118,
+                "username": "CityChris",
+                "rating": 5,
+                "comment": "Loved the stylish design and service."
+            },
+            {
+                "user_id": 119,
+                "username": "TravelerTori",
+                "rating": 4,
+                "comment": "Good hotel but can be crowded."
+            },
+            {
+                "user_id": 120,
+                "username": "LuxuryLogan",
+                "rating": 5,
+                "comment": "Amazing hotel with fantastic service."
+            }
+        ],
+        "description": "The SoHo Grand Hotel offers a stylish and modern experience in the heart of the trendy SoHo district, featuring luxurious rooms and exceptional service.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "310 W Broadway, New York, NY 10013",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 965-3000",
+        "website": "https://www.sohogrand.com",
+        "price_range": "$15 - $35",
+        "categories": [
+            "Boutique",
+            "Hotel"
+        ],
+        "features": [
+            "Pet-Friendly",
+            "Bar",
+            "Restaurant",
+            "Fitness Center",
+            "Concierge"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1596436891234-ab1fbd9353e5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": "009",
+        "name": "Times Square Suites",
+        "rating": 4.6,
+        "reviews": [
+            {
+                "user_id": 121,
+                "username": "TimesTina",
+                "rating": 5,
+                "comment": "Great location in the heart of Times Square!"
+            },
+            {
+                "user_id": 122,
+                "username": "CityCarl",
+                "rating": 4,
+                "comment": "Nice hotel but can be very busy."
+            },
+            {
+                "user_id": 123,
+                "username": "LuxuryLeo",
+                "rating": 5,
+                "comment": "Loved the views and service."
+            },
+            {
+                "user_id": 124,
+                "username": "TravelerTara",
+                "rating": 4,
+                "comment": "Good experience but room was small."
+            },
+            {
+                "user_id": 125,
+                "username": "HappyHelen",
+                "rating": 5,
+                "comment": "Fantastic service and location."
+            },
+            {
+                "user_id": 126,
+                "username": "TimesTom",
+                "rating": 4,
+                "comment": "Great hotel but a bit noisy."
+            },
+            {
+                "user_id": 127,
+                "username": "LuxuryLiam",
+                "rating": 5,
+                "comment": "Amazing hotel with great amenities."
+            },
+            {
+                "user_id": 128,
+                "username": "CityCasey",
+                "rating": 4,
+                "comment": "Nice hotel but can be crowded."
+            },
+            {
+                "user_id": 129,
+                "username": "TimesTara",
+                "rating": 5,
+                "comment": "Loved the views and atmosphere."
+            },
+            {
+                "user_id": 130,
+                "username": "TravelerTim",
+                "rating": 4,
+                "comment": "Good hotel but a bit pricey."
+            },
+            {
+                "user_id": 131,
+                "username": "LuxuryLisa",
+                "rating": 5,
+                "comment": "Fantastic hotel with amazing service."
+            },
+            {
+                "user_id": 132,
+                "username": "TimesTony",
+                "rating": 4,
+                "comment": "Nice hotel but can be noisy."
+            },
+            {
+                "user_id": 133,
+                "username": "CityCheryl",
+                "rating": 5,
+                "comment": "Loved the location and design."
+            },
+            {
+                "user_id": 134,
+                "username": "TravelerTom",
+                "rating": 4,
+                "comment": "Great experience but room was small."
+            },
+            {
+                "user_id": 135,
+                "username": "LuxuryLara",
+                "rating": 5,
+                "comment": "Amazing hotel with fantastic views."
+            }
+        ],
+        "description": "Times Square Suites offers modern accommodations in the heart of Times Square, featuring stunning views and exceptional service.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "123 Times Sq, New York, NY 10036",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 555-1234",
+        "website": "https://www.timessquaresuites.com",
+        "price_range": "$50 - $100",
+        "categories": [
+            "Modern",
+            "Hotel"
+        ],
+        "features": [
+            "Free Wi-Fi",
+            "Rooftop Bar",
+            "Fitness Center",
+            "Business Center"
+        ],
+        "main_photo": "https://unsplash.com/photos/a-large-room-with-a-chandelier-and-chairs-8YHHvZl4Y7g"
+    },
+    {
+        "id": "010",
+        "name": "The Broadway Palace",
+        "rating": 4.7,
+        "reviews": [
+            {
+                "user_id": 136,
+                "username": "BroadwayBella",
+                "rating": 5,
+                "comment": "Fantastic hotel with amazing Broadway views."
+            },
+            {
+                "user_id": 137,
+                "username": "LuxuryLara",
+                "rating": 4,
+                "comment": "Great service but can be busy."
+            },
+            {
+                "user_id": 138,
+                "username": "TravelerTom",
+                "rating": 5,
+                "comment": "Loved the elegant rooms and amenities."
+            },
+            {
+                "user_id": 139,
+                "username": "CityCathy",
+                "rating": 4,
+                "comment": "Nice hotel but can be crowded."
+            },
+            {
+                "user_id": 140,
+                "username": "BroadwayBen",
+                "rating": 5,
+                "comment": "Amazing location and service."
+            },
+            {
+                "user_id": 141,
+                "username": "HappyHannah",
+                "rating": 4,
+                "comment": "Good experience but room was small."
+            },
+            {
+                "user_id": 142,
+                "username": "LuxuryLeo",
+                "rating": 5,
+                "comment": "Fantastic hotel with great amenities."
+            },
+            {
+                "user_id": 143,
+                "username": "CityChloe",
+                "rating": 4,
+                "comment": "Nice hotel but a bit pricey."
+            },
+            {
+                "user_id": 144,
+                "username": "BroadwayBella",
+                "rating": 5,
+                "comment": "Loved the luxury and service."
+            },
+            {
+                "user_id": 145,
+                "username": "TravelerTim",
+                "rating": 4,
+                "comment": "Great hotel but can be noisy."
+            },
+            {
+                "user_id": 146,
+                "username": "LuxuryLiam",
+                "rating": 5,
+                "comment": "Amazing hotel with stunning views."
+            },
+            {
+                "user_id": 147,
+                "username": "BroadwayBeth",
+                "rating": 4,
+                "comment": "Nice location but a bit crowded."
+            },
+            {
+                "user_id": 148,
+                "username": "CityCameron",
+                "rating": 5,
+                "comment": "Loved the location and design."
+            },
+            {
+                "user_id": 149,
+                "username": "TravelerTina",
+                "rating": 4,
+                "comment": "Good hotel but room was small."
+            },
+            {
+                "user_id": 150,
+                "username": "LuxuryLucy",
+                "rating": 5,
+                "comment": "Fantastic hotel with great service."
+            }
+        ],
+        "description": "The Broadway Palace offers luxury accommodations with breathtaking views of Broadway, featuring elegant rooms and exceptional service.",
+        "hours": {
+            "monday": "24 hours",
+            "tuesday": "24 hours",
+            "wednesday": "24 hours",
+            "thursday": "24 hours",
+            "friday": "24 hours",
+            "saturday": "24 hours",
+            "sunday": "24 hours"
+        },
+        "address": "789 Broadway Ave, New York, NY 10019",
+        "google_maps_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.165009781119!2d-74.000226784593!3d40.73357287933086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259af18e0df8b%3A0xa76a0c32a6fbc5b4!2s101%20Greenwich%20Ave%2C%20New%20York%2C%20NY%2010014%2C%20USA!5e0!3m2!1sen!2s!4v1618506342615!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+        "phone": "(212) 555-7890",
+        "website": "https://www.broadwaypalacehotel.com",
+        "price_range": "$10 - $25",
+        "categories": [
+            "Luxury",
+            "Hotel"
+        ],
+        "features": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Bar",
+            "Spa",
+            "Concierge"
+        ],
+        "main_photo": "https://images.unsplash.com/photo-1667120888250-e728e3dd3a44?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
