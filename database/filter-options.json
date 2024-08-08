@@ -1,0 +1,25 @@
+{
+    "business_type": ["restaurant", "hotel", "store"],
+    "categories": {
+        "hotel": [
+            "Luxury",
+            "Modern",
+            "Historic",
+            "Boutique"
+        ],
+        "restaurant": [
+            "Lunch",
+            "Dinner",
+            "Breakfast"
+        ],
+        "store": [
+            "Books",
+            "Stationery",
+            "Electronics",
+            "Gadgets",
+            "Clothing",
+            "Accessories",
+            "Books"
+        ]
+    }
+}
